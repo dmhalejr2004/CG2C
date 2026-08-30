@@ -1,0 +1,17 @@
+---
+title: "Session 3"
+subtitle: "Authority and Who Holds It"
+---
+
+::: {.session-banner}
+::: {.session-number}
+Session 3 of 8
+:::
+::: {.session-title}
+Authority and Who Holds It
+:::
+:::
+
+::: {.callout-note}
+Full materials for this session are coming soon. 
+:::

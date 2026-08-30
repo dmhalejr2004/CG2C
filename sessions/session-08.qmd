@@ -1,0 +1,17 @@
+---
+title: "Session 8"
+subtitle: "What Could the Church Be?"
+---
+
+::: {.session-banner}
+::: {.session-number}
+Session 8 of 8
+:::
+::: {.session-title}
+What Could the Church Be?
+:::
+:::
+
+::: {.callout-note}
+Full materials for this session are coming soon. 
+:::

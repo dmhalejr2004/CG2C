@@ -1,0 +1,91 @@
+---
+title: "Appendix"
+subtitle: "Resources, references, and facilitator support"
+---
+
+## Crisis and Support Resources
+
+| Resource | Contact | Notes |
+|----------|---------|-------|
+| **RAINN** (sexual abuse) | 1-800-656-4673 · rainn.org | 24/7 hotline |
+| **Crisis Text Line** | Text HOME to 741741 | Free, confidential |
+| **Spiritual Abuse Resources** | spiritualabuseresources.com | Information and referrals |
+| **National Alliance on Mental Illness** | nami.org · 1-800-950-6264 | Mental health support |
+| **Your church pastoral care** | *(insert)* | |
+| **Recommended counselor** | *(insert)* | Counselor familiar with religious trauma |
+
+---
+
+## Suggested Reading
+
+### On church hurt and spiritual abuse
+- *The Subtle Power of Spiritual Abuse* — David Johnson & Jeff VanVonderen
+- *Churches That Abuse* — Ronald Enroth
+- *Recovering from Religious Abuse* — Jack Watts
+
+### On the church's role and failures
+- *The Scandal of the Evangelical Conscience* — Ronald Sider
+- *Divided by Faith* — Michael Emerson & Christian Smith
+- *White Too Long* — Robert P. Jones
+
+### On the church at its best
+- *The Patient Ferment of the Early Church* — Alan Kreider
+- *Life Together* — Dietrich Bonhoeffer
+- *Surprised by Hope* — N.T. Wright
+
+### For personal processing
+- *The Body Keeps the Score* — Bessel van der Kolk
+- *Faith After Doubt* — Brian McLaren
+
+---
+
+## Facilitator Reference: The Session Template
+
+Each session in this book follows a consistent structure. When you're building or adapting new sessions, use this template.
+
+### Standard 2-hour format
+
+| Block | Time | Purpose |
+|-------|------|---------|
+| Check-in | 15 min | Re-establish safety; read the room |
+| Education block | 35 min | Short teaching + facilitated discussion |
+| BREAK | 10 min | Non-negotiable decompression |
+| Support / story block | 45 min | Personal sharing and group response |
+| Close & bridge | 15 min | Takeaway, seed question, next session |
+
+### Adding a podcast episode
+
+Each session page has an audio section at the top. To link your MP4 episodes:
+
+1. Upload your MP4 file to your GitHub repository under `assets/audio/session-XX.mp4`
+2. Replace the `[⬇ Download MP4](#)` placeholder link with the actual GitHub raw file URL:
+   ```
+   https://raw.githubusercontent.com/YOUR-USERNAME/cynics-guide/main/assets/audio/session-01.mp4
+   ```
+3. Rebuild and push the site.
+
+---
+
+## Hosting on GitHub Pages
+
+This site is built with [Quarto](https://quarto.org) and hosted free on GitHub Pages.
+
+### Initial setup
+
+1. Create a GitHub account if you don't have one
+2. Create a new repository named `cynics-guide-to-church` (or similar)
+3. Upload all files from this project
+4. In repository Settings → Pages → Source: select **Deploy from branch** → `main` → `/docs`
+5. Your site will be live at `https://YOUR-USERNAME.github.io/cynics-guide-to-church`
+
+### Updating the site
+
+To rebuild after making changes:
+```bash
+quarto render
+```
+Then commit and push the updated `docs/` folder to GitHub.
+
+### Updating the `_quarto.yml`
+
+Replace `YOUR-USERNAME` in `_quarto.yml` with your actual GitHub username once the repo is created.

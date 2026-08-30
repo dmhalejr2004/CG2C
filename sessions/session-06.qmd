@@ -1,0 +1,17 @@
+---
+title: "Session 6"
+subtitle: "Opinion, Culture, and the Non-Negotiables"
+---
+
+::: {.session-banner}
+::: {.session-number}
+Session 6 of 8
+:::
+::: {.session-title}
+Opinion, Culture, and the Non-Negotiables
+:::
+:::
+
+::: {.callout-note}
+Full materials for this session are coming soon. 
+:::

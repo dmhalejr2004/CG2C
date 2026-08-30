@@ -1,0 +1,56 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "The Cynic's Guide to Church"
+  subtitle: "An 8-Session Class for People with Unfinished Business"
+  author: ""
+  date: ""
+  description: |
+    A class for people who have complicated, honest, unresolved feelings about the church.
+    Not a debate. Not a recovery program. Not Sunday school.
+    A space to name things, examine them, and figure out what to do with them.
+  repo-url: https://github.com/YOUR-USERNAME/cynics-guide-to-church
+  repo-actions: [issue]
+  sidebar:
+    style: docked
+    background: light
+    logo: ""
+  chapters:
+    - index.qmd
+    - ground-rules.qmd
+    - sessions/session-01.qmd
+    - sessions/session-02.qmd
+    - sessions/session-03.qmd
+    - sessions/session-04.qmd
+    - sessions/session-05.qmd
+    - sessions/session-06.qmd
+    - sessions/session-07.qmd
+    - sessions/session-08.qmd
+    - appendix.qmd
+
+format:
+  html:
+    theme:
+      light: [flatly, custom.scss]
+    toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    number-sections: false
+    smooth-scroll: true
+    code-fold: false
+    link-external-newwindow: true
+    anchor-sections: true
+    grid:
+      sidebar-width: 280px
+      body-width: 740px
+      margin-width: 200px
+    css: custom.scss
+    html-math-method: plain
+    page-layout: article
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">

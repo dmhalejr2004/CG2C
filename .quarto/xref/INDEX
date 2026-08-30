@@ -1,0 +1,35 @@
+{
+  "index.qmd": {
+    "index.html": "12267ee8"
+  },
+  "ground-rules.qmd": {
+    "ground-rules.html": "5ee35d88"
+  },
+  "sessions/session-01.qmd": {
+    "session-01.html": "b55bdfd0"
+  },
+  "sessions/session-02.qmd": {
+    "session-02.html": "947e685e"
+  },
+  "sessions/session-03.qmd": {
+    "session-03.html": "dbb5c162"
+  },
+  "sessions/session-04.qmd": {
+    "session-04.html": "894e9903"
+  },
+  "sessions/session-05.qmd": {
+    "session-05.html": "c247a55b"
+  },
+  "sessions/session-06.qmd": {
+    "session-06.html": "129c097b"
+  },
+  "sessions/session-07.qmd": {
+    "session-07.html": "6d0344a8"
+  },
+  "sessions/session-08.qmd": {
+    "session-08.html": "5cec8e9c"
+  },
+  "appendix.qmd": {
+    "appendix.html": "4d643a9f"
+  }
+}

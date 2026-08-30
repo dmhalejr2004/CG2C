@@ -1,0 +1,17 @@
+---
+title: "Session 7"
+subtitle: "Recovery, Repair, and Resilience"
+---
+
+::: {.session-banner}
+::: {.session-number}
+Session 7 of 8
+:::
+::: {.session-title}
+Recovery, Repair, and Resilience
+:::
+:::
+
+::: {.callout-note}
+Full materials for this session are coming soon. 
+:::

@@ -1,0 +1,17 @@
+---
+title: "Session 4"
+subtitle: "What Is the Church Supposed to Be?"
+---
+
+::: {.session-banner}
+::: {.session-number}
+Session 4 of 8
+:::
+::: {.session-title}
+What Is the Church Supposed to Be?
+:::
+:::
+
+::: {.callout-note}
+Full materials for this session are coming soon. 
+:::

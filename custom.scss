@@ -1,0 +1,313 @@
+/*-- scss:defaults --*/
+
+// Typography
+$font-family-sans-serif: 'Inter', system-ui, -apple-system, sans-serif;
+$font-family-serif: 'Lora', Georgia, serif;
+$font-size-root: 17px;
+$line-height-base: 1.75;
+
+// Colors — warm, serious, not evangelical-kitsch
+$body-bg: #faf9f7;
+$body-color: #2a2a2a;
+$link-color: #3d6b8c;
+$link-hover-color: #2a4d66;
+
+$primary: #2c3e50;
+$secondary: #7f8c8d;
+$headings-color: #1a2530;
+
+$sidebar-bg: #f2f0ec;
+$sidebar-fg: #333333;
+$sidebar-hl: #2c3e50;
+
+$toc-color: #555555;
+$toc-active-border: #2c3e50;
+$toc-left-border: #dddddd;
+
+/*-- scss:rules --*/
+
+// Body prose
+body {
+  font-family: $font-family-sans-serif;
+  color: $body-color;
+  background: $body-bg;
+}
+
+// Headings use serif for warmth
+h1, h2, h3 {
+  font-family: $font-family-serif;
+  font-weight: 600;
+  color: $headings-color;
+  letter-spacing: -0.01em;
+}
+
+h1 { font-size: 2rem; margin-top: 0; }
+h2 { font-size: 1.4rem; margin-top: 2.2rem; border-bottom: 1px solid #e0ddd8; padding-bottom: 0.3rem; }
+h3 { font-size: 1.15rem; margin-top: 1.8rem; color: #2c3e50; }
+h4 { font-size: 1rem; font-family: $font-family-sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: #666; margin-top: 1.5rem; }
+
+// Chapter title area
+.quarto-title-block {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 2px solid #2c3e50;
+}
+
+// Callout overrides — clean, not flashy
+.callout {
+  border-radius: 4px;
+  margin: 1.5rem 0;
+  font-size: 0.97rem;
+}
+
+.callout-note {
+  border-left-color: #3d6b8c;
+  background: #eef4f8;
+}
+
+.callout-tip {
+  border-left-color: #27ae60;
+  background: #eaf7ef;
+}
+
+.callout-warning {
+  border-left-color: #e67e22;
+  background: #fdf3e7;
+}
+
+.callout-important {
+  border-left-color: #c0392b;
+  background: #fdf0ee;
+}
+
+// Session header banner
+.session-banner {
+  background: #2c3e50;
+  color: white;
+  padding: 1.5rem 2rem;
+  border-radius: 6px;
+  margin-bottom: 2rem;
+
+  .session-number {
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    opacity: 0.7;
+    margin-bottom: 0.3rem;
+  }
+
+  .session-title {
+    font-family: $font-family-serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .session-subtitle {
+    font-size: 0.9rem;
+    opacity: 0.75;
+    margin-top: 0.4rem;
+  }
+}
+
+// Timing table
+.timing-table {
+  width: 100%;
+  font-size: 0.9rem;
+  border-collapse: collapse;
+  margin: 1.2rem 0;
+
+  th {
+    background: #2c3e50;
+    color: white;
+    padding: 0.5rem 0.75rem;
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+  }
+
+  td {
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid #e8e5e0;
+    vertical-align: top;
+  }
+
+  tr:nth-child(even) td { background: #f5f3ef; }
+  tr:last-child td { border-bottom: none; }
+
+  .time-col { white-space: nowrap; font-weight: 600; color: #2c3e50; width: 90px; }
+  .note-col { font-style: italic; color: #555; font-size: 0.87rem; }
+}
+
+// Discussion question styling
+.discussion-questions ol {
+  counter-reset: dq-counter;
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    counter-increment: dq-counter;
+    padding: 0.7rem 0 0.7rem 2.8rem;
+    position: relative;
+    border-bottom: 1px solid #eee;
+    line-height: 1.6;
+
+    &:last-child { border-bottom: none; }
+
+    &::before {
+      content: counter(dq-counter);
+      position: absolute;
+      left: 0;
+      top: 0.7rem;
+      width: 1.8rem;
+      height: 1.8rem;
+      background: #2c3e50;
+      color: white;
+      border-radius: 50%;
+      text-align: center;
+      line-height: 1.8rem;
+      font-size: 0.8rem;
+      font-weight: 700;
+    }
+
+    em {
+      display: block;
+      font-size: 0.87rem;
+      color: #666;
+      margin-top: 0.3rem;
+      font-style: italic;
+    }
+  }
+}
+
+// Facilitator-only sections
+.facilitator-note {
+  background: #fffbf0;
+  border-left: 4px solid #f39c12;
+  padding: 0.9rem 1.1rem;
+  margin: 1.2rem 0;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.93rem;
+
+  strong { color: #b7770d; }
+}
+
+// Prompt boxes
+.prompt-box {
+  background: #eef7f2;
+  border-left: 4px solid #27ae60;
+  padding: 1rem 1.2rem;
+  margin: 1.2rem 0;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.97rem;
+  font-style: italic;
+}
+
+// Handout sections (print-friendly)
+.handout-section {
+  border: 1.5px solid #2c3e50;
+  border-radius: 6px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  background: white;
+
+  .handout-title {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #e0ddd8;
+  }
+}
+
+// Write-in lines
+.write-lines {
+  p { font-weight: 600; font-size: 0.9rem; margin-bottom: 0.5rem; }
+  .line {
+    border-bottom: 1px solid #aaa;
+    height: 2rem;
+    margin-bottom: 0.5rem;
+  }
+}
+
+// Covenant box
+.covenant-box {
+  background: #f8f6f2;
+  border: 1.5px solid #2c3e50;
+  border-radius: 6px;
+  padding: 1.5rem 2rem;
+  margin: 1.5rem 0;
+
+  ol {
+    font-size: 1rem;
+    line-height: 1.9;
+    padding-left: 1.3rem;
+  }
+}
+
+// Audio player section
+.audio-section {
+  background: #f0f4f8;
+  border-radius: 6px;
+  padding: 1rem 1.2rem;
+  margin: 1.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  .audio-icon {
+    font-size: 1.8rem;
+    flex-shrink: 0;
+  }
+
+  .audio-info {
+    flex: 1;
+    font-size: 0.9rem;
+
+    strong { display: block; margin-bottom: 0.2rem; }
+    a { color: $link-color; }
+  }
+}
+
+// Print styles
+@media print {
+  .sidebar, .quarto-navbar, .page-navigation, #TOC { display: none !important; }
+  .session-banner { background: #2c3e50 !important; -webkit-print-color-adjust: exact; }
+  .handout-section { page-break-inside: avoid; }
+  h2 { page-break-after: avoid; }
+  body { font-size: 11pt; }
+}
+
+// Sidebar styling
+.sidebar-navigation {
+  font-size: 0.9rem;
+
+  .sidebar-item-text { color: $sidebar-fg; }
+  .active .sidebar-item-text { color: $primary; font-weight: 600; }
+}
+
+// Rule / divider
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 2rem 0;
+}
+
+// Pull quote
+blockquote {
+  border-left: 3px solid #2c3e50;
+  padding: 0.5rem 1.2rem;
+  color: #444;
+  font-family: $font-family-serif;
+  font-style: italic;
+  margin: 1.5rem 0;
+  font-size: 1.05rem;
+
+  footer, cite { font-size: 0.85rem; font-style: normal; color: #888; }
+}

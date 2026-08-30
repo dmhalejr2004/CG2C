@@ -1,0 +1,17 @@
+---
+title: "Session 5"
+subtitle: "Abuse, Harm, and the Line That Matters"
+---
+
+::: {.session-banner}
+::: {.session-number}
+Session 5 of 8
+:::
+::: {.session-title}
+Abuse, Harm, and the Line That Matters
+:::
+:::
+
+::: {.callout-note}
+Full materials for this session are coming soon. 
+:::

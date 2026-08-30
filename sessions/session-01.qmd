@@ -1,0 +1,35 @@
+---
+title: "Session 1"
+subtitle: "Getting Started?"
+---
+
+::: {.session-banner}
+::: {.session-number}
+Session 1 of 8
+:::
+::: {.session-title}
+What Are We Bringing Into the Room?
+:::
+::: {.session-subtitle}
+Connect · Create safety · Surface the lenses we're already looking through
+:::
+:::
+
+## 🎧 Podcast Episode
+
+::: {.audio-section}
+::: {.audio-icon}
+🎙️
+:::
+::: {.audio-info}
+**Session 1 — The Church in the New Testament?**
+*~30 min · Download and listen before or after your session*
+
+[⬇ Download MP4 — Session 1](#){.btn .btn-outline-primary .btn-sm}
+
+*A conversation about how the church fits into the New Testament.*
+:::
+:::
+
+---
+

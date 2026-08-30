@@ -1,0 +1,17 @@
+---
+title: "Session 2"
+subtitle: "How We See Shapes What We See"
+---
+
+::: {.session-banner}
+::: {.session-number}
+Session 2 of 8
+:::
+::: {.session-title}
+How We See Shapes What We See
+:::
+:::
+
+::: {.callout-note}
+Full materials for this session are coming soon. 
+:::

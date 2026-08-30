@@ -1,0 +1,85 @@
+---
+title: "The Cynic's Guide to Church"
+subtitle: "An 8-Session Class for People with Unfinished Business"
+page-layout: article
+toc: false
+---
+
+::: {.session-banner}
+::: {.session-number}
+Welcome
+:::
+::: {.session-title}
+This class exists because real things have happened.
+:::
+::: {.session-subtitle}
+People have been hurt by churches. People have also been changed by churches. What do we do with the tension between those things?
+:::
+:::
+
+## What this is
+
+This is a class for people who have **complicated, honest, unresolved feelings about the church**.
+
+Not a debate. Not a recovery program. Not Sunday school. Not a space where you'll be told to forgive faster, doubt less, or look on the bright side.
+
+It's a space where you can name what you've experienced — the good and the bad — examine it honestly, and figure out what to do with it.
+
+Over eight weeks, we'll hold two things at the same time without letting either one cancel out the other:
+
+- **The church has genuinely harmed people.**
+- **The church has genuinely changed lives for good.**
+
+Both are true. The goal is to wrestle with that tension in an honest way.
+
+---
+
+## Who this is for
+
+This class is for:
+
+- **Current attenders** who are struggling with aspects of their church experience
+- **People who have stepped back or left** and aren't sure what to do next
+- **Longtime churchgoers** who feel disillusioned but can't fully articulate why
+- **Skeptics and returnees** who are somewhere in between
+- **Church lovers** who are consistently lifted up by their church experience
+
+You don't have to have it figured out.
+
+---
+
+## How to use this site
+
+This site contains **everything for the class** — session guides, participant materials, discussion questions, and reflection exercises.
+
+Each session page includes:
+
+- A **podcast episode** you can download and listen to before or after the session
+- **Session overview** and timing
+- **Discussion questions** and activities
+- **Printable handouts** for participants
+
+::: {.callout-note}
+**Podcast episodes** are available as MP4 downloads on each session page. You can listen before the class to orient yourself, or after to process what came up.
+:::
+
+---
+
+## The high-level flow
+
+| # | Title | Core question |
+|---|-------|---------------|
+| 1 | **Purpose, Frameworks, Language** | Where does the church fit, language and frameworks of purpose, methods etc.? |
+| 2 | **What are we experiencing?** | What lenses am I looking through and what do they show and hide? Authority, Abuse, Harm, Goodness, Beauty, Life |
+| 3 | **What could be?** | What is realiste, What is possible? |
+
+---
+
+## Before you begin
+
+Read the [Ground Rules](ground-rules.qmd) before your first session. They're not a list of restrictions — they're the conditions that make honest conversation possible.
+
+
+---
+
+*This class was built for a specific community, but the questions belong to anyone who has ever loved the church, been hurt by it, or both.*
