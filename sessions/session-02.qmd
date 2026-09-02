@@ -1,6 +1,6 @@
 ---
 title: "Session 2"
-subtitle: "How We See Shapes What We See"
+subtitle: "What Does 'Church' Actually Mean?"
 ---
 
 ::: {.session-banner}
@@ -8,10 +8,375 @@ subtitle: "How We See Shapes What We See"
 Session 2 of 8
 :::
 ::: {.session-title}
-How We See Shapes What We See
+What Does "Church" Actually Mean?
+:::
+::: {.session-subtitle}
+The word · The New Testament · The Temple connection · What got lost in translation
 :::
 :::
 
+## 🎧 Podcast Episode
+
+::: {.audio-section}
+::: {.audio-icon}
+🎙️
+:::
+::: {.audio-info}
+**Session 2 — What Does "Church" Actually Mean?**
+*~30 min · Download and listen before or after your session*
+
+[▶ Watch on Facebook](#){target="_blank"}
+:::
+:::
+
+---
+
+## Overview
+
+This session does one main thing: **it gives participants an accurate definition of "church" before they spend eight weeks arguing about it.**
+
+Most frustration with the church — and most defense of it — is actually a conversation about different things using the same word. This session creates a shared vocabulary.
+
+---
+
+## Session at a Glance
+
+<table class="timing-table">
+<thead>
+<tr><th>Time</th><th>Activity</th><th class="note-col">Purpose / Facilitator note</th></tr>
+</thead>
+<tbody>
+<tr><td class="time-col">0:00–0:10</td><td>Check-in</td><td class="note-col">One sentence each. Use the seed question from Session 1.</td></tr>
+<tr><td class="time-col">0:10–0:25</td><td>Opening exercise: What do we mean by "church"?</td><td class="note-col">Interactive. Five sentences. Let the group wrestle before you teach.</td></tr>
+<tr><td class="time-col">0:25–0:55</td><td>Teaching: Ekklēsia in the New Testament</td><td class="note-col">Interactive teaching with table exercise. Max 10 min uninterrupted talk.</td></tr>
+<tr><td class="time-col">0:55–1:05</td><td>BREAK</td><td class="note-col">Hard stop.</td></tr>
+<tr><td class="time-col">1:05–1:35</td><td>Teaching: The Temple connection</td><td class="note-col">The big theological shift. Small group exercise.</td></tr>
+<tr><td class="time-col">1:35–1:50</td><td>Discussion</td><td class="note-col">Apply personally and practically.</td></tr>
+<tr><td class="time-col">1:50–2:00</td><td>Close & seed question</td><td class="note-col">Brief. End with a question that carries into Session 3.</td></tr>
+</tbody>
+</table>
+
+---
+
+## 1. Opening Exercise — What Do We Mean? `(0:10–0:25)`
+
+Put these five sentences on a screen or whiteboard. Read each one aloud, then ask: **"What does the word 'church' mean in this sentence?"**
+
+::: {.callout-tip}
+1. *"Where do you go to church?"*
+2. *"Church starts at 10."*
+3. *"We haven't been to church lately."*
+4. *"That church has great preaching."*
+5. *"We're looking for a church with a good youth program."*
+:::
+
+Go through them one at a time. Let the group name what "church" is pointing to. They will notice that it means something different in almost every sentence — a place, an event, a habit, an organization, a service provider.
+
 ::: {.callout-note}
-Full materials for this session are coming soon. 
+**🗒️ Facilitator note:** Don't correct anything yet. Just surface the range. Then say: *"So when we say 'the church has failed people' or 'the church changed my life' — what are we actually talking about? Tonight we try to find out what the New Testament is pointing to when it uses this word."*
+:::
+
+---
+
+## 2. Teaching — *Ekklēsia* in the New Testament `(0:25–0:55)`
+
+::: {.callout-note}
+**🗒️ Facilitator note:** Keep each section to 5–8 minutes of talking. Pause for reactions. Never more than 10 consecutive minutes of you speaking. The goal is guided discovery, not lecture.
+:::
+
+### The word itself
+
+The Greek word behind our English "church" is:
+
+> **ἐκκλησία** — *ekklēsia* (ek-klay-SEE-ah)
+> Usually translated: *church, assembly, congregation*
+
+::: {.callout-important}
+**Key point:** This word was *not invented by Christians.* It was ordinary Greek for an assembly of people. When a first-century Christian heard *ekklēsia*, their mental picture was not a building with pews and programs. It was: **a people, an assembly, a gathered community.**
+:::
+
+There is also an interesting translation wrinkle: our English word "church" does not come from *ekklēsia* at all. It comes from *kyriakon*, meaning "belonging to the Lord."
+
+| Language | Word | Root |
+|----------|------|------|
+| English | church | *kyriakon* |
+| Scottish | kirk | *kyriakon* |
+| German | Kirche | *kyriakon* |
+| English (academic) | ecclesiastical | *ekklēsia* |
+
+Knowing the Greek can correct some of the baggage we unconsciously attach to the English word.
+
+---
+
+### How the New Testament uses *ekklēsia*
+
+| Use | Example | Meaning |
+|-----|---------|---------|
+| Ordinary crowd | Acts 19:32 | A pagan mob in confusion |
+| Civic assembly | Acts 19:39 | Official public gathering |
+| Israel's assembly | Acts 7:38 | God's OT people gathered |
+| House church | Romans 16:5 | Believers at Priscilla & Aquila's home |
+| City church | 1 Cor. 1:2 | All Christians in Corinth |
+| Gathered meeting | 1 Cor. 11:18 | Christians actually assembled |
+| Universal church | Eph. 1:22–23 | The whole body of Christ |
+
+::: {.callout-tip}
+**Table exercise (5 min):** In pairs, read Acts 19:32, 39, and 41. Is Luke saying "the church was in confusion"? What does this tell us about the word *ekklēsia*?
+:::
+
+---
+
+### What Jesus said
+
+*Ekklēsia* appears only in Matthew, twice:
+
+> **Matthew 16:18** — *"I will build my* ekklēsia."*
+> **Matthew 18:17** — *"Tell it to the* ekklēsia."*
+
+Two things matter here:
+
+1. **The possessive** — Jesus says *"my* ekklēsia." The church belongs to Christ, not to a denomination, building, or pastor.
+2. **The concreteness** — In Matthew 18, the *ekklēsia* is a recognizable community that can hear a dispute and respond. This is not abstract theology. It is an actual group of people who know each other.
+
+::: {.callout-important}
+**The tension:** The church is both a theological reality *and* a specific community of actual people. The New Testament holds both at once.
+:::
+
+---
+
+### Acts shows us the people
+
+> *"Saul began to destroy the church."* (Acts 8:3)
+
+Saul was not destroying buildings. He was entering houses and dragging people away. So what was "the church" that Saul was attacking?
+
+**People.**
+
+Paul does not write "To Corinth Community Church." He writes **"To God's *ekklēsia* that is in Corinth."** That is a subtle but significant difference.
+
+---
+
+### One popular explanation that does not quite work
+
+You have probably heard this:
+
+> *"Ekklēsia comes from* ek *(out of) and* kaleō *(to call), so the church literally means 'the called-out ones.'"*
+
+Do not teach it that way. Acts 19 disproves it — the pagan mob rioting in Ephesus is called an *ekklēsia*. Luke is not suggesting rioters are spiritually called-out ones. By the NT period, the word simply meant **assembly.**
+
+| ✅ Accurate | ❌ Not quite right |
+|------------|-------------------|
+| "God has called his people." | "*Ekklēsia* literally means called-out ones." |
+| "Christians are called out of darkness." (1 Pet. 2:9) | "The Greek proves the church is defined by being called out." |
+
+---
+
+## BREAK `(0:55–1:05)`
+
+---
+
+## 3. Teaching — The Temple Connection `(1:05–1:35)`
+
+The New Testament makes a stunning claim: **the people do not go to a sacred place. The people *become* the sacred place.**
+
+### The progression under the Old Covenant
+
+God's presence was associated with a *place*, structured around restricted access:
+
+$$\text{Tabernacle} \rightarrow \text{Temple} \rightarrow \text{Holy of Holies} \rightarrow \text{Curtain}$$
+
+That architecture communicated: **God is holy, humanity is estranged, access is restricted.**
+
+Then at Jesus' death:
+
+> *"The curtain of the temple was torn in two from top to bottom."* — Matthew 27:51
+
+Hebrews makes the connection explicit: believers now have direct confidence to enter God's presence through Christ (Hebrews 10:19–22).
+
+**So what happens to the sacred place?**
+
+::: {.callout-tip}
+**Small group exercise (8 min):** Divide into three groups. Each reads one passage and answers: *"What does this say the church* is*? What would a community that actually believed this look like?"*
+
+- **Group 1:** 1 Corinthians 3:16–17
+- **Group 2:** Ephesians 2:19–22
+- **Group 3:** 1 Peter 2:4–5
+
+Report back.
+:::
+
+::: {.callout-important}
+**The New Testament does not replace a Jewish sacred building with a Christian sacred building. It does something far more radical: the people *become* the building.**
+
+God no longer primarily dwells among his people *in* a sacred structure. He dwells *in* his people by the Spirit.
+:::
+
+---
+
+### Four images for the church
+
+| Image | Greek | Key text | What it communicates |
+|-------|-------|----------|----------------------|
+| Assembly | *ekklēsia* | Matt. 16:18 | A gathered people belonging to Christ |
+| Body of Christ | *sōma Christou* | Eph. 1:22–23 | Joined to Christ, joined to each other |
+| Temple of God | *naos theou* | 1 Cor. 3:16 | God's Spirit dwells in his people |
+| Household of God | *oikos theou* | Eph. 2:19 | Family, belonging, shared life |
+
+---
+
+### The reversals
+
+| Temple logic | Church logic |
+|-------------|-------------|
+| Concentric rings of access | Direct access for all through Christ |
+| Priests mediate God's presence | One mediator: Christ alone (1 Tim. 2:5) |
+| Repeated sacrifice | One sacrifice, finished (Heb. 10:12) |
+| World moves *toward* sacred center | Gospel moves *outward* into the world |
+| National — gathered around Israel | International — all nations (Matt. 28:19) |
+| Dividing wall: Jew / Gentile | Dividing wall destroyed (Eph. 2:14) |
+
+---
+
+### The biblical arc
+
+| Stage | Description |
+|-------|-------------|
+| **Eden** | God with humanity |
+| **Tabernacle** | God dwelling among Israel |
+| **Temple** | God's localized covenant presence |
+| **Jesus** | *"The Word became flesh and dwelt among us"* |
+| **Church** | God's Spirit dwelling *in* his people |
+| **New Creation** | *"The dwelling place of God is with man"* (Rev. 21:3) |
+
+::: {.callout-note}
+**🗒️ Facilitator note:** Draw this timeline on a whiteboard slowly. Pause at each step. Ask: "So where does the church fit in this story?" Let them place it before you name it.
+:::
+
+The church is an **intermediate form appropriate to an intermediate age.** We do not yet experience God's presence as we will in the new creation — but neither are we standing behind the curtain waiting for access.
+
+---
+
+### A challenging implication
+
+::: {.callout-important}
+If that is right, then the *way the church exists* is supposed to communicate the gospel.
+
+A church can verbally proclaim the priesthood of all believers while structurally making Christians into spectators. It can proclaim that God dwells in his people while functionally treating a building as the locus of God's activity. It can proclaim reconciliation while organizing itself around demographic similarity. It can proclaim servanthood while creating celebrity leaders.
+
+**The question is not only: what does our church say? It is: what does our structure appear to say?**
+:::
+
+---
+
+## 4. Discussion `(1:35–1:50)`
+
+::: {.discussion-questions}
+1. **Before tonight, when you pictured "the church," what did you picture?** How does the *ekklēsia* material change that — if at all?
+
+2. **The New Testament says God's Spirit dwells in his people.** What would it mean to take that seriously? What would change about how you think about yourself?
+
+3. **The Temple had a curtain separating ordinary people from God's presence. The gospel tears that curtain.** Where have you experienced churches that put the curtain back up — making access to God feel restricted, conditional, or mediated through a leader?
+
+   *This may open difficult territory. Hold it carefully.*
+
+4. **Ephesians 2 says the church is supposed to embody reconciliation between people who were previously divided.** Where have you seen that happen? Where have you seen churches reinforce those divisions instead?
+:::
+
+---
+
+## Close `(1:50–2:00)`
+
+> *"The New Testament's picture of church is simpler and more radical than what most of us have experienced. It's people — belonging to Christ, joined to each other, becoming the place where God's presence lives in the world. Everything else we call 'church' is downstream from that.*
+>
+> *Next week we ask: if that's the purpose, what does the church actually need to do — and how did we get from people gathered in houses to organizations with staff, buildings, programs, and budgets? That turns out to be a really interesting story."*
+
+::: {.callout-tip}
+**Seed question for the week:**
+
+Think about a place or moment where you most clearly sensed God's presence. Was it in a building? A gathering? A moment with one other person? What does your answer tell you about where you instinctively locate God's presence — and how does that compare to what the New Testament describes?
+:::
+
+---
+
+## Printable Participant Handout
+
+::: {.handout-section}
+::: {.handout-title}
+📄 Participant Handout — Session 2
+:::
+
+**The Cynic's Guide to Church · Session 2 · What Does "Church" Actually Mean?**
+
+---
+
+### The word: *Ekklēsia*
+
+**Greek:** ἐκκλησία · **Pronunciation:** ek-klay-SEE-ah · **Usual translation:** church, assembly, congregation
+
+This word was not invented by Christians. In ordinary Greek it meant *an assembly of people.* A first-century Christian hearing *ekklēsia* would have pictured: **a people, a gathered community** — not a building, institution, or Sunday service.
+
+---
+
+### How the NT uses the word
+
+| Use | Example | Meaning |
+|-----|---------|---------|
+| Ordinary crowd | Acts 19:32 | A pagan mob in confusion |
+| Civic assembly | Acts 19:39 | Official public gathering |
+| Israel's assembly | Acts 7:38 | God's OT people gathered |
+| House church | Romans 16:5 | Believers at someone's home |
+| City church | 1 Cor. 1:2 | All Christians in Corinth |
+| Gathered meeting | 1 Cor. 11:18 | Christians actually assembled |
+| Universal church | Eph. 1:22–23 | The whole body of Christ |
+
+---
+
+### Four images for the church
+
+| Image | Key text | What it communicates |
+|-------|----------|----------------------|
+| Assembly | Matt. 16:18 | A gathered people belonging to Christ |
+| Body of Christ | Eph. 1:22–23 | Joined to Christ, joined to each other |
+| Temple of God | 1 Cor. 3:16 | God's Spirit dwells in his people |
+| Household of God | Eph. 2:19 | Family, belonging, shared life |
+
+---
+
+### The Temple reversals
+
+| Temple | Church |
+|--------|--------|
+| Concentric rings of access | Direct access through Christ |
+| Priests mediate God's presence | One mediator: Christ alone |
+| Repeated sacrifice | One sacrifice, finished |
+| World moves toward sacred center | Gospel moves outward into the world |
+
+---
+
+### The biblical arc
+
+Eden → Tabernacle → Temple → Jesus → **Church** → New Creation
+
+*"Behold, the dwelling place of God is with man."* — Revelation 21:3
+
+---
+
+### Reflection
+
+**One thing that surprised or challenged me:**
+
+_______________________________________________
+
+_______________________________________________
+
+**A question this raised:**
+
+_______________________________________________
+
+_______________________________________________
+
+---
+
+*Next session: Purpose, Functions, Methods — how did we get from people in houses to what we call church today?*
+
 :::

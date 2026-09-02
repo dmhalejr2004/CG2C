@@ -1,6 +1,6 @@
 ---
 title: "Session 3"
-subtitle: "Authority and Who Holds It"
+subtitle: "Purpose, Functions, and Methods — How Did We Get Here?"
 ---
 
 ::: {.session-banner}
@@ -8,10 +8,457 @@ subtitle: "Authority and Who Holds It"
 Session 3 of 8
 :::
 ::: {.session-title}
-Authority and Who Holds It
+Purpose, Functions, and Methods
+:::
+::: {.session-subtitle}
+How did we get from people in houses to what we call church today?
 :::
 :::
 
+## 🎧 Podcast Episode
+
+::: {.audio-section}
+::: {.audio-icon}
+🎙️
+:::
+::: {.audio-info}
+**Session 3 — Purpose, Functions, and Methods**
+*~30 min · Download and listen before or after your session*
+
+[▶ Watch on Facebook](#){target="_blank"}
+:::
+:::
+
+---
+
+## Overview
+
+Last session we established what "church" *is* in the New Testament. This session asks: **what is it *for*, and how did we get from there to here?**
+
+Three moves:
+
+1. A framework — Purpose, Functions, Methods
+2. A history — how the methods developed over 2,000 years
+3. A diagnosis — what organizational and market logics are currently driving the church
+
+By the end, participants should be able to distinguish between what the church *must* do, what the church has *historically invented* to do it, and what the church has *absorbed from consumer culture*.
+
+---
+
+## Session at a Glance
+
+<table class="timing-table">
+<thead>
+<tr><th>Time</th><th>Activity</th><th class="note-col">Purpose / Facilitator note</th></tr>
+</thead>
+<tbody>
+<tr><td class="time-col">0:00–0:10</td><td>Check-in</td><td class="note-col">One sentence each. Seed question from Session 2.</td></tr>
+<tr><td class="time-col">0:10–0:30</td><td>Teaching: Purpose, Functions, Methods</td><td class="note-col">Introduce the framework. Let participants populate it.</td></tr>
+<tr><td class="time-col">0:30–0:55</td><td>Bucket exercise</td><td class="note-col">Groups physically sort cards. Disagreement is the point.</td></tr>
+<tr><td class="time-col">0:55–1:05</td><td>BREAK</td><td class="note-col">Hard stop.</td></tr>
+<tr><td class="time-col">1:05–1:30</td><td>Teaching: How the methods developed</td><td class="note-col">History — brief and interactive. One example traced in depth: the sermon.</td></tr>
+<tr><td class="time-col">1:30–1:50</td><td>Discussion: Community logic vs. organizational logic</td><td class="note-col">The modern diagnosis. Apply personally.</td></tr>
+<tr><td class="time-col">1:50–2:00</td><td>Close & seed question</td><td class="note-col">Brief. Connect to upcoming sessions on authority and harm.</td></tr>
+</tbody>
+</table>
+
+---
+
+## 1. Teaching — The Framework `(0:10–0:30)`
+
 ::: {.callout-note}
-Full materials for this session are coming soon. 
+**🗒️ Facilitator note:** Write these three words on a whiteboard — PURPOSE, FUNCTIONS, METHODS — with space under each. Do *not* fill them in. Let the group populate them first. Your job is to ask questions and write what they say.
+:::
+
+### The three levels
+
+**Ask the group:**
+
+> *"Why does the church exist? Not what it does — why does it* exist*?"*
+
+Write their answers. Refine toward something like:
+
+::: {.callout-important}
+**PURPOSE — Why does the church exist?**
+
+To become and display God's redeemed people in Christ, and to participate in God's mission in the world.
+:::
+
+**Then ask:**
+
+> *"If that's why it exists — what does it therefore* need to do*?"*
+
+Write their answers. They will generate most of this list:
+
+::: {.callout-tip}
+**FUNCTIONS — What must the church therefore do?**
+
+Worship · Teach · Form disciples · Pray · Share meals and communion · Care for those in need · Love one another · Exercise gifts · Reconcile · Evangelize · Serve · Send
+:::
+
+**Then ask:**
+
+> *"How does a specific church, in a specific time and place, actually* accomplish *those things?"*
+
+::: {.callout-tip}
+**METHODS — How do we currently do those things?**
+
+Sermons · Buildings · Sunday school · Small groups · Worship bands · Youth ministry · Staff · Programs · Sunday services · Mission trips · Websites · Budgets
+:::
+
+Then name the key principle:
+
+::: {.callout-important}
+**Purposes are enduring.**
+**Functions flow from the purposes.**
+**Methods are contextual — they shift with time, culture, and circumstance.**
+
+The problem comes when we confuse a method with a function, or a function with the purpose itself.
+:::
+
+---
+
+### The purpose question in depth
+
+The New Testament never gives a neat mission statement. You have to synthesize it. Here is one way to organize it:
+
+| Purpose | Key text |
+|---------|----------|
+| **Glorify and display God** | *"Through the church, the manifold wisdom of God should be made known…"* — Eph. 3:10 |
+| **Make disciples** | *"Go therefore and make disciples of all nations…teaching them to obey everything I commanded."* — Matt. 28:19–20 |
+| **Form people into Christlikeness** | *"…until we all attain…to the measure of the stature of the fullness of Christ."* — Eph. 4:13 |
+| **Create a new kind of human community** | *"By this everyone will know that you are my disciples, if you love one another."* — John 13:35 |
+| **Embody reconciliation** | *"He…has broken down in his flesh the dividing wall of hostility."* — Eph. 2:14 |
+| **Bear witness to God's kingdom** | The Acts 2:42–47 community — teaching, fellowship, meals, generosity, prayer, witness |
+| **Participate in God's mission** | *"God…gave us the ministry of reconciliation…We are therefore Christ's ambassadors."* — 2 Cor. 5:18–20 |
+
+::: {.callout-note}
+**🗒️ Facilitator note:** You do not need to work through all seven. Choose two or three that will resonate most with your group and spend time on those. The goal is to establish that the church's purpose is *richer and harder to measure* than attendance, giving, or program quality.
+:::
+
+---
+
+## 2. Bucket Exercise `(0:30–0:55)`
+
+**Prepare card sets before the session.** Print or write each item below on a separate card. Put one set per table.
+
+Give groups three sorting headings:
+
+| Bucket 1 | Bucket 2 | Bucket 3 |
+|----------|----------|----------|
+| **NT core** — described or commanded in the NT | **Historical method** — useful tool developed over time | **Modern organizational / consumer layer** |
+
+**Cards to sort:**
+
+::: {.callout-tip}
+Gathering regularly · Teaching Scripture · Prayer · Lord's Supper · Baptism · Singing · Giving · Caring for poor · Fellowship · Mutual accountability · Evangelism · Spiritual gifts · Elders / overseers · Deacons · Church discipline · Large dedicated building · Pulpit / platform · 30–45 minute weekly sermon · Sunday morning as primary service · Seminary-trained clergy · Denominations · Sunday school · Small group system · Full-time senior pastor · Children's / youth ministries · Worship band · Multiple Sunday services · Church branding / logo · Marketing campaigns · Coffee shop / café · Attraction-oriented services · Professional production / lighting · Attendance as primary success metric · Pastor as CEO / celebrity · Congregation primarily as audience
+:::
+
+Let groups sort. There will be disagreement. **That is the point.** Do not rush to resolve it.
+
+After groups report back, share this reference table:
+
+| Practice | NT core | Historical tool | Modern consumer layer |
+|----------|---------|-----------------|-----------------------|
+| Gathering regularly | ✓ | | |
+| Teaching Scripture | ✓ | | |
+| Prayer | ✓ | | |
+| Lord's Supper | ✓ | | |
+| Baptism | ✓ | | |
+| Singing | ✓ | | |
+| Giving | ✓ | | |
+| Caring for poor | ✓ | | |
+| Fellowship / shared life | ✓ | | |
+| Mutual encouragement | ✓ | | |
+| Evangelism | ✓ | | |
+| Members exercising gifts | ✓ | | |
+| Elders / overseers | ✓ | | |
+| Deacons | ✓ | | |
+| Church discipline | ✓ | | |
+| Large dedicated building | | ✓ | |
+| 30–45 minute weekly sermon | | ✓ | |
+| Sunday morning as primary service | | ✓ | |
+| Seminary-trained clergy | | ✓ | |
+| Denominations | | ✓ | |
+| Sunday school | | ✓ | |
+| Full-time senior pastor | | ✓ | |
+| Children's / youth ministries | | ✓ | |
+| Worship band | | ✓ | |
+| Multiple Sunday services | | | ✓ |
+| Church branding / logo | | | ✓ |
+| Marketing campaigns | | | ✓ |
+| Attraction-oriented services | | | ✓ |
+| Professional production / lighting | | | ✓ |
+| Attendance as primary success metric | | | ✓ |
+| Pastor as CEO / celebrity | | | ✓ |
+| Congregation primarily as audience | | | ✓ |
+
+::: {.callout-important}
+**Critical caution:** "Not commanded" does not mean "bad." A church building can be enormously useful. Sunday school can be excellent. The issue is what happens when we mistake a useful historical form for the biblical definition of church — or when Bucket 3 logic begins distorting Buckets 1 and 2.
+:::
+
+::: {.callout-note}
+**🗒️ Discussion questions for the bucket exercise:**
+
+- *"Where does 'sermon' go? Is it Bucket 1 or 2?"*
+- *"Is 'pastor' a function or a method?"*
+- *"Is Sunday gathering prescribed in Scripture or merely historical?"*
+- *"You don't need definitive answers to everything. You are learning to distinguish categories."*
+:::
+
+---
+
+## BREAK `(0:55–1:05)`
+
+---
+
+## 3. Teaching — How the Methods Developed `(1:05–1:30)`
+
+::: {.callout-note}
+**🗒️ Facilitator note:** Present this as a story, not a lecture. Pause after each major shift and ask: *"Why do you think this happened? What problem was being solved?"* Most of these changes happened for understandable reasons. The question is not "who ruined the church?" It is "what happens when solutions accumulate for 2,000 years?"
+:::
+
+### The broad arc
+
+| Era | What the church looked like |
+|-----|-----------------------------|
+| **1st century** | Jesus movement → household communities |
+| **2nd–3rd centuries** | Increasing institutionalization: bishops, clergy, liturgy |
+| **4th century** | Constantine + basilicas + professional clergy |
+| **Medieval** | Sacramental church + cathedral + priesthood |
+| **Reformation** | Recovery of Scripture + pulpit elevated + sermon central |
+| **Revivalism (1700s–1900s)** | Preacher / audience model intensified |
+| **American voluntary church** | Consumer choice + denominational competition |
+| **Modern evangelical church** | Market-driven + programmatic + campus-based |
+
+### One example traced in depth: the sermon
+
+The sermon is a useful case study because it shows clearly how a method develops, becomes central, and eventually defines "church" in people's minds.
+
+| Period | What preaching looked like |
+|--------|---------------------------|
+| **AD 30–100** | Apostolic proclamation + teaching + prophecy + participatory gatherings. *"When you come together, each of you has a hymn, a lesson, a revelation…"* (1 Cor. 14:26) |
+| **AD 100–200** | Recognizable homily emerging. Justin Martyr (c. AD 150): Scripture reading, then the president "verbally instructs and exhorts" |
+| **AD 200–300** | Regular expository preaching established. Origen delivers systematic homilies on biblical books |
+| **AD 300–500** | Professional clergy preach lengthy sermons to large congregations. Chrysostom — "golden-mouthed" — famous for extended biblical series |
+| **Medieval** | Sermons continue but Eucharist / Mass dominates worship |
+| **1500s Reformation** | Pulpit becomes visually dominant. Scripture exposition and sermon become center of Protestant worship |
+| **1700s–1900s** | Revivalism further develops preacher / audience model |
+| **1900s–today** | Modern evangelical: worship music + 30–45 minute sermon as the primary product |
+
+::: {.callout-important}
+**The most defensible conclusion:**
+
+Preaching is ancient and thoroughly Christian.
+
+Sermon-centered worship — where the extended monologue by a professional pastor becomes the organizing center of the weekly gathering — is much later.
+
+The question worth asking: *"How did one particular form of teaching come to dominate the gathering so completely that many Christians now instinctively think* that *is what 'church' is?"*
+:::
+
+---
+
+### The same pattern applies to other elements
+
+**The word "pastor"**
+
+In many American churches: *"the pastor" = primary preacher + CEO + organizational leader + spiritual authority + public face.*
+
+That is not an obvious New Testament category.
+
+*Poimēn* (shepherd/pastor) appears as a ministry term in Ephesians 4:11. But the far more common NT leadership language is **elder** (*presbyteros*) and **overseer** (*episkopos*), generally in the plural.
+
+The development:
+
+$$\text{elders among the congregation} \rightarrow \text{clergy offices} \rightarrow \text{priest / bishop} \rightarrow \text{Reformation minister} \rightarrow \text{professional pastor} \rightarrow \text{modern senior pastor}$$
+
+**The building**
+
+The earliest Christians met in homes for several centuries. By the third century, adapted buildings appear (Dura-Europos, c. AD 240). After Constantine, large basilicas become Christian worship spaces — and architecture begins changing people's understanding of church.
+
+Instead of *"The church is gathering at Lydia's house"* you increasingly get *"The Christians are gathering at the basilica."*
+
+Eventually the building itself gets called "the church." Language naturally evolves — but it can subtly change theology.
+
+---
+
+## 4. Discussion — Community Logic vs. Organizational Logic `(1:30–1:50)`
+
+::: {.callout-note}
+**🗒️ Facilitator note:** This is the most personally charged section. The goal is not to condemn churches but to help participants name something they may have felt without having language for it.
+:::
+
+Put this table up and ask participants to respond to it:
+
+| Community logic | Organizational logic |
+|----------------|---------------------|
+| Belonging | Attendance |
+| Formation | Programming |
+| Participation | Consumption |
+| Gifts | Roles |
+| Relationship | Efficiency |
+| Faithfulness | Growth |
+| Disciple | Attendee |
+| Shepherd | Executive |
+| Mission | Brand |
+| One another | Audience |
+
+::: {.callout-tip}
+**Discussion questions:**
+
+1. **Which column feels more familiar from your church experience?** Not which one you prefer — which one you have actually encountered.
+
+2. **A church can unconsciously operate this feedback loop:** *produces religious experiences → attendees consume them → successful churches attract more consumers → revenue funds better programs → better programs attract more consumers.* **Have you experienced that? What did it feel like?**
+
+3. **Some of the discomfort people feel with church may not be rejection of the church at all. It may be grief over the distance between the church they long for and the church they have experienced.** Does that distinction land for anyone?
+
+4. **What would a church look like that genuinely operated by the community column rather than the organizational column?** Have you seen it? Is it realistic?
+:::
+
+::: {.discussion-questions}
+1. Which column feels more familiar from your experience?
+
+2. The teaching described a feedback loop where churches produce religious experiences that people consume, which drives growth, which funds better production. Have you experienced that? What did it feel like from the inside?
+
+3. Some discomfort with church may not be rejection of the church but grief over the distance between the church we long for and the church we have experienced. Does that land?
+
+4. What would it look like for a church to genuinely operate by community logic rather than organizational logic? Is that realistic at scale?
+:::
+
+---
+
+## Close `(1:50–2:00)`
+
+> *"We've now established what the church is, what it's for, and how we got from the New Testament to now. The next sessions get harder — we're going to talk about authority, about harm, and about how to tell the difference between the two.*
+>
+> *But before we do, I want to name something. The cynicism a lot of us carry about the church is not just disappointment. It's often a sign that we knew — or hoped — the church was supposed to be something more than it has been. That intuition is worth taking seriously."*
+
+::: {.callout-tip}
+**Seed question for the week:**
+
+Think about your current or most recent church experience. Using the Purpose → Functions → Methods framework:
+
+- What *methods* did that church prioritize most?
+- What *functions* did those methods actually serve?
+- And underneath it all — what *purpose* did the church seem to be organized around?
+
+Were those three things aligned?
+:::
+
+---
+
+## Printable Participant Handout
+
+::: {.handout-section}
+::: {.handout-title}
+📄 Participant Handout — Session 3
+:::
+
+**The Cynic's Guide to Church · Session 3 · Purpose, Functions, and Methods**
+
+---
+
+### The framework
+
+**PURPOSE — Why does the church exist?**
+
+To become and display God's redeemed people in Christ, and to participate in God's mission in the world.
+
+**FUNCTIONS — What must the church therefore do?**
+
+Worship · Teach · Form disciples · Pray · Share Lord's Supper · Care for need · Love one another · Exercise gifts · Reconcile · Evangelize · Serve · Send
+
+**METHODS — How do we accomplish those things here and now?**
+
+Sermons · Buildings · Sunday school · Small groups · Worship bands · Youth ministry · Staff · Programs · Sunday services · Mission trips
+
+---
+
+### The key principle
+
+> **Purposes are enduring. Functions flow from the purposes. Methods are contextual.**
+>
+> The danger comes when we confuse a method with a function, or a function with the purpose itself.
+
+---
+
+### Why does the church exist? Seven purposes
+
+| Purpose | Key text |
+|---------|----------|
+| Glorify and display God | Eph. 3:10, 21 |
+| Make disciples | Matt. 28:19–20 |
+| Form people into Christlikeness | Eph. 4:11–13 |
+| Create a new kind of human community | John 13:35 |
+| Embody reconciliation | Eph. 2:14–15 |
+| Bear witness to God's kingdom | Acts 2:42–47 |
+| Participate in God's mission | 2 Cor. 5:18–20 |
+
+---
+
+### The three buckets
+
+| Bucket 1 — NT core | Bucket 2 — Historical tool | Bucket 3 — Modern consumer layer |
+|--------------------|-----------------------------|----------------------------------|
+| Gathering, teaching, prayer, Lord's Supper, baptism, singing, giving, care for poor, fellowship, accountability, evangelism, gifts, elders, deacons, discipline | Building, sermon, Sunday morning, seminary clergy, denominations, Sunday school, full-time pastor, children's ministry, worship band | Multiple services, branding, marketing, attraction-oriented services, professional production, attendance metrics, pastor as CEO, congregation as audience |
+
+*"Not commanded" does not mean "bad." The issue is what happens when a method becomes our definition of church.*
+
+---
+
+### Community logic vs. organizational logic
+
+| Community logic | Organizational logic |
+|----------------|---------------------|
+| Belonging | Attendance |
+| Formation | Programming |
+| Participation | Consumption |
+| Gifts | Roles |
+| Faithfulness | Growth |
+| Disciple | Attendee |
+| Shepherd | Executive |
+| Mission | Brand |
+
+---
+
+### The sermon — from participatory to monologue
+
+| Period | What it looked like |
+|--------|---------------------|
+| AD 30–100 | Participatory gatherings. *"Each of you has a hymn, a lesson…"* (1 Cor. 14:26) |
+| AD 100–300 | Homily emerging; expository preaching established |
+| AD 300–500 | Professional clergy preach to large congregations |
+| Reformation | Pulpit dominant; sermon becomes center of Protestant worship |
+| Revivalism | Preacher / audience model intensified |
+| Today | Worship music + 30–45 minute sermon as principal product |
+
+Preaching is ancient and thoroughly Christian. Sermon-centered worship is much later.
+
+---
+
+### Discussion questions
+
+1. Which column of community vs. organizational logic feels more familiar from your experience?
+2. Have you experienced the consumer feedback loop in a church? What did it feel like?
+3. Is the discomfort you feel with church rejection — or grief over the gap?
+4. What would a church look like that genuinely operated by community logic?
+
+---
+
+### Reflection
+
+**One method I have confused with a function or purpose:**
+
+_______________________________________________
+
+**Something this class is helping me see more clearly:**
+
+_______________________________________________
+
+_______________________________________________
+
+---
+
+*Next session: Authority and Who Holds It — power structures, healthy and unhealthy, and what the Bible actually says about leadership.*
+
 :::
