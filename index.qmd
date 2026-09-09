@@ -10,7 +10,7 @@ toc: false
 Welcome
 :::
 ::: {.session-title}
-This class exists because real things have happened.
+We all bring our things to the table
 :::
 ::: {.session-subtitle}
 People have been hurt by churches. People have also been changed by churches. What do we do with the tension between those things?
@@ -52,20 +52,20 @@ You don't have to have it figured out.
 
 This site contains **everything for the class** — session guides, participant materials, discussion questions, and reflection exercises.
 
-Each session page includes:
+Each session page may include:
 
 - A **podcast episode** you can download and listen to before or after the session
-- **Session overview** and timing
+- **Background** and resources
 - **Discussion questions** and activities
-- **Printable handouts** for participants
+
 
 ::: {.callout-note}
-**Podcast episodes** are available as MP4 downloads on each session page. You can listen before the class to orient yourself, or after to process what came up.
+**Podcast episodes** are available as MP4 downloads on each session page. You can listen before the class to orient yourself, or after to process what came up. They will use AI to generate from materials and notes on specific topics.
 :::
 
 ---
 
-## The high-level flow
+## The high-level flow of the class
 
 | # | Title | Core question |
 |---|-------|---------------|
@@ -77,7 +77,7 @@ Each session page includes:
 
 ## Before you begin
 
-Read the [Ground Rules](ground-rules.qmd) before your first session. They're not a list of restrictions — they're the conditions that make honest conversation possible.
+Read the [Ground Rules](ground-rules.qmd) before your first session. They're not a list of restrictions...they're the conditions that make honest conversation possible.
 
 
 ---
