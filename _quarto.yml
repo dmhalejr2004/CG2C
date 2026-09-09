@@ -28,7 +28,7 @@ book:
     - sessions/session-06.qmd
     - sessions/session-07.qmd
     - sessions/session-08.qmd
-    - appendix.qmd
+  
 
 format:
   html:

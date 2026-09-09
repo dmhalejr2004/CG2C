@@ -498,55 +498,5 @@
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Session 8</span>"
     ]
-  },
-  {
-    "objectID": "appendix.html",
-    "href": "appendix.html",
-    "title": "Appendix",
-    "section": "",
-    "text": "Crisis and Support Resources",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Appendix</span>"
-    ]
-  },
-  {
-    "objectID": "appendix.html#crisis-and-support-resources",
-    "href": "appendix.html#crisis-and-support-resources",
-    "title": "Appendix",
-    "section": "",
-    "text": "Resource\nContact\nNotes\n\n\n\n\nRAINN (sexual abuse)\n1-800-656-4673 · rainn.org\n24/7 hotline\n\n\nCrisis Text Line\nText HOME to 741741\nFree, confidential\n\n\nSpiritual Abuse Resources\nspiritualabuseresources.com\nInformation and referrals\n\n\nNational Alliance on Mental Illness\nnami.org · 1-800-950-6264\nMental health support\n\n\nYour church pastoral care\n(insert)\n\n\n\nRecommended counselor\n(insert)\nCounselor familiar with religious trauma",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Appendix</span>"
-    ]
-  },
-  {
-    "objectID": "appendix.html#suggested-reading",
-    "href": "appendix.html#suggested-reading",
-    "title": "Appendix",
-    "section": "Suggested Reading",
-    "text": "Suggested Reading\n\nOn church hurt and spiritual abuse\n\nThe Subtle Power of Spiritual Abuse — David Johnson & Jeff VanVonderen\nChurches That Abuse — Ronald Enroth\nRecovering from Religious Abuse — Jack Watts\n\n\n\nOn the church’s role and failures\n\nThe Scandal of the Evangelical Conscience — Ronald Sider\nDivided by Faith — Michael Emerson & Christian Smith\nWhite Too Long — Robert P. Jones\n\n\n\nOn the church at its best\n\nThe Patient Ferment of the Early Church — Alan Kreider\nLife Together — Dietrich Bonhoeffer\nSurprised by Hope — N.T. Wright\n\n\n\nFor personal processing\n\nThe Body Keeps the Score — Bessel van der Kolk\nFaith After Doubt — Brian McLaren",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Appendix</span>"
-    ]
-  },
-  {
-    "objectID": "appendix.html#facilitator-reference-the-session-template",
-    "href": "appendix.html#facilitator-reference-the-session-template",
-    "title": "Appendix",
-    "section": "Facilitator Reference: The Session Template",
-    "text": "Facilitator Reference: The Session Template\nEach session in this book follows a consistent structure. When you’re building or adapting new sessions, use this template.\n\nStandard 2-hour format\n\n\n\nBlock\nTime\nPurpose\n\n\n\n\nCheck-in\n15 min\nRe-establish safety; read the room\n\n\nEducation block\n35 min\nShort teaching + facilitated discussion\n\n\nBREAK\n10 min\nNon-negotiable decompression\n\n\nSupport / story block\n45 min\nPersonal sharing and group response\n\n\nClose & bridge\n15 min\nTakeaway, seed question, next session\n\n\n\n\n\nAdding a podcast episode\nEach session page has an audio section at the top. To link your MP4 episodes:\n\nUpload your MP4 file to your GitHub repository under assets/audio/session-XX.mp4\nReplace the [⬇ Download MP4](#) placeholder link with the actual GitHub raw file URL:\nhttps://raw.githubusercontent.com/YOUR-USERNAME/cynics-guide/main/assets/audio/session-01.mp4\nRebuild and push the site.",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Appendix</span>"
-    ]
-  },
-  {
-    "objectID": "appendix.html#hosting-on-github-pages",
-    "href": "appendix.html#hosting-on-github-pages",
-    "title": "Appendix",
-    "section": "Hosting on GitHub Pages",
-    "text": "Hosting on GitHub Pages\nThis site is built with Quarto and hosted free on GitHub Pages.\n\nInitial setup\n\nCreate a GitHub account if you don’t have one\nCreate a new repository named cynics-guide-to-church (or similar)\nUpload all files from this project\nIn repository Settings → Pages → Source: select Deploy from branch → main → /docs\nYour site will be live at https://YOUR-USERNAME.github.io/cynics-guide-to-church\n\n\n\nUpdating the site\nTo rebuild after making changes:\nquarto render\nThen commit and push the updated docs/ folder to GitHub.\n\n\nUpdating the _quarto.yml\nReplace YOUR-USERNAME in _quarto.yml with your actual GitHub username once the repo is created.",
-    "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Appendix</span>"
-    ]
   }
 ]
