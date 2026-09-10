@@ -15,19 +15,16 @@ The word · The New Testament · The Temple connection · What got lost in trans
 :::
 :::
 
-## Listen
+## 🎙Optional Listening: From Temple to Temple?
 
-::: {.audio-section}
-::: {.audio-icon}
-🎙️
-:::
-::: {.audio-info}
-**Session 2 — What Does "Church" Actually Mean?**
+<audio controls style="width:100%; margin: 1rem 0;">
+  <source src="../assets/audio/transitiontochurch.mp3" type="audio/mpeg">
+</audio>
 
-[▶ Listen](#){target="_blank"}
-:::
-:::
+<a href="../assets/audio/transitiontochurch.mp3" download="transitiontochurch.mp3" class="btn btn-outline-primary btn-sm">⬇ Download Episode</a>
+
 ---
+
 
 ## A reflection from last session
 
@@ -37,6 +34,7 @@ Looking back before we go forward
 :::
 
 ![Two people looking at the same thing and seeing something completely different.](../assets/images/ChurchPerspective.png){width=100% fig-align="center"}
+<a href="../assets/images/ChurchPerspective.png" download="ChurchPerspective.png" class="btn btn-outline-primary btn-sm">⬇ Download Image</a>
 
 *What experiences, relationships, or ways of thinking are most shaping the way you currently see or interact with the church?*
 
@@ -217,6 +215,7 @@ Words can be confusing
 :::
 
 ![Current understanding can cloud interpretation and understanding.](../assets/images/wordchurch.png){width=100% fig-align="center"}
+<a href="../assets/images/wordchurch.png" download="wordchurch.png" class="btn btn-outline-primary btn-sm">⬇ Download Image</a>
 
 *How do you define church?*
 
@@ -334,6 +333,6 @@ _______________________________________________
 
 **The question to carry into Session 2:**
 
-> What do you expect to happen in church? What is shaping those expectations? Where did they come from?
+> Do you have a list of should and shouldn't in church communities? What is shaping those expectations? Where did they come from?
 
 Just another reflection, you will not have to answer out loud (but you can)
