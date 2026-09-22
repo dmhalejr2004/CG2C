@@ -15,22 +15,14 @@ What the church is for · How the methods developed · What is driving the churc
 :::
 :::
 
-## Listen
+## 🎙Optional Listening: Expected vs. Experienced?
 
-::: {.audio-section}
-::: {.audio-icon}
-🎙️
-:::
-::: {.audio-info}
-**Session 3 -- Purpose, Functions, and Methods**
-
-<audio controls style="width:100%; margin: 0.5rem 0;">
+<audio controls style="width:100%; margin: 1rem 0;">
   <source src="../assets/audio/Session3Podcast.mp3" type="audio/mpeg">
 </audio>
 
 <a href="../assets/audio/Session3Podcast.mp3" download="Session3Podcast.mp3" class="btn btn-outline-primary btn-sm">⬇ Download Episode</a>
-:::
-:::
+
 
 ---
 
