@@ -24,8 +24,49 @@ What the church is for · How the methods developed · What is driving the churc
 ::: {.audio-info}
 **Session 3 -- Purpose, Functions, and Methods**
 
-[▶ Not Currently Available, Available Soon](#){target="_blank"}
+<audio controls style="width:100%; margin: 0.5rem 0;">
+  <source src="../assets/audio/Session3Podcast.mp3" type="audio/mpeg">
+</audio>
+
+<a href="../assets/audio/Session3Podcast.mp3" download="Session3Podcast.mp3" class="btn btn-outline-primary btn-sm">⬇ Download Episode</a>
 :::
+:::
+
+---
+
+## Discussing last week's session
+
+Before we move into new material, it is worth pausing on something from last session.
+
+The dress and the Facebook video both demonstrated that the same inputs can produce genuinely different responses in different people -- and that those differences are not random. They are shaped by what each person brings to the experience.
+
+Here is a question to sit with before we go further:
+
+::: {.callout-note}
+**Discussion**
+
+Do you carry any "shoulds" or "should nots" about church -- things you feel people ought to do or believe or practice, or things that feel clearly wrong even if you have never examined why?
+
+If so, where do those come from? Experience? Upbringing? Theology? Culture? A specific community? Something you were taught so early you cannot quite trace it?
+:::
+
+This is not a question with a right answer. It is an invitation to notice what you are carrying before we spend two hours talking about where those things come from.
+
+---
+
+## A reflection from last session
+
+::: {.handout-section}
+::: {.handout-title}
+Looking back before we go forward
+:::
+
+![What we expected versus what we experienced.](../assets/images/expectedvsexperienced.png){width=100% fig-align="center"}
+
+<a href="../assets/images/expectedvsexperienced.png" download="expectedvsexperienced.png" class="btn btn-outline-primary btn-sm">⬇ Download Image</a>
+
+*What experiences, relationships, or ways of thinking are most shaping the way you currently see or interact with the church?*
+
 :::
 
 ---
@@ -50,7 +91,7 @@ That is broader than "save people" or "worship God" or "make disciples." Those a
 
 ### To display God
 
-Paul says in Ephesians 3:10-21 that God's intent is that "through the church, the manifold wisdom of God should be made known." 
+Paul says in Ephesians 3:10-21 that God's intent is that "through the church, the manifold wisdom of God should be made known."
 
 That is an extraordinary claim. The church is not merely an organization that tells people about God. The church itself is supposed to be evidence of what God is doing. People who ordinarily would not belong together -- rich and poor, different races, former enemies -- become one new people reconciled to God and to one another. The community becomes part of the message.
 
@@ -108,9 +149,26 @@ The third category is what we might call the modern consumer layer -- multiple S
 
 One important caution: "not commanded" does not mean "bad." A church building is enormously useful. A seminary can train people to interpret Scripture carefully. The issue is not that second-category things exist. The issue is what happens when we mistake a useful historical form for the biblical definition of church -- or when the third category begins distorting the first two.
 
+::: {.handout-section}
+::: {.handout-title}
+The Purpose, Functions, and Methods Framework
+:::
+
+![A visual overview of the purpose, functions, and methods framework.](../assets/images/pfmframework.png){width=100% fig-align="center"}
+
+<a href="../assets/images/pfmframework.png" download="pfmframework.png" class="btn btn-outline-primary btn-sm">⬇ Download Image</a>
+
+:::
+
 ---
 
 ## How the methods developed
+
+::: {.callout-note}
+**A caveat worth naming**
+
+Everything that follows is broad-brushed and high-level. The actual history of the church across 2,000 years is far more complex, regionally varied, and theologically contested than any brief summary can capture. The reason to walk through it here is not to give a complete account. It is to show how the winds of history have shaped what many of us have inherited as "traditional" church practice -- and to make visible what is ancient, what is medieval, what is modern, and what is very recent.
+:::
 
 Most of the changes in church history happened for understandable reasons. The question is not who ruined the church. It is what happens when solutions accumulate across 2,000 years and eventually become our unconscious definition of what church is.
 
@@ -211,10 +269,23 @@ Those are much closer to what the New Testament actually cares about when it eva
 
 ## Reflection
 
-
 **Something this session is helping me see more clearly:**
 
 _______________________________________________
 
 _______________________________________________
+
+---
+
+## Question to carry into next session
+
+::: {.callout-note}
+**Discussion**
+
+There have been a lot of high-profile falls from leaders in the American church in recent years. Do you think that is simply the presence of social media making things more visible -- or do you think something deeper is going on? Why?
+
+And what should we actually expect of leaders in the church? Where do those expectations come from?
+
+Come ready to talk about it next session.
+:::
 
