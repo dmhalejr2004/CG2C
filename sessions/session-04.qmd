@@ -14,14 +14,13 @@ Leadership in the New Testament
 What roles actually exist · What they require · How they fail · How to tell the difference
 :::
 :::
-
-## 🎙️ Listen to This Session Available Soon
+## 🎙️ Listen to This Session
 
 <audio controls style="width:100%; margin: 1rem 0;">
-  <source src="../assets/audio/session-04.mp3" type="audio/mpeg">
+  <source src="../assets/audio/LeadershipSession.mp3" type="audio/mpeg">
 </audio>
 
-<a href="../assets/audio/session-04.mp3" download="session-04.mp3" class="btn btn-outline-primary btn-sm">⬇ Download Episode</a>
+<a href="../assets/audio/LeadershipSession.mp3" download="LeadershipSession.mp3" class="btn btn-outline-primary btn-sm">⬇ Download Episode</a>
 
 ---
 
@@ -337,7 +336,7 @@ One practical way to apply everything we have covered is to look for patterns. N
 | Vulnerable people are exposed or used | Vulnerable people are protected and centered |
 | The leader's private life is shielded from any scrutiny | The leader's life is consistent and can withstand honest observation over time |
 
-::: {.callout-tip}
+::: 
 **Discussion**
 
 Based on what we have talked about today, what other red flags or green flags would you add to this list?
