@@ -1,0 +1,372 @@
+---
+title: "Session 5"
+subtitle: "When Leadership Goes Wrong"
+---
+
+::: {.session-banner}
+::: {.session-number}
+Session 5 of 8
+:::
+::: {.session-title}
+When Leadership Goes Wrong
+:::
+::: {.session-subtitle}
+Narcissism · Leadership failure · The hard questions of restoration
+:::
+:::
+
+## 🎙️ Listen
+
+::: {.audio-section}
+::: {.audio-icon}
+🎙️
+:::
+::: {.audio-info}
+**Session 5 — When Leadership Goes Wrong**
+
+[▶ Not Currently Available, Available Soon](#){target="_blank"}
+:::
+:::
+
+---
+
+## Picking up where we left off
+
+Last session ended with the red flag / green flag table. Before we move into new material, it is worth pausing on that.
+
+::: {.callout-note}
+**Discussion**
+
+Looking back at the flags from last session — did any of them surface memories or experiences you did not expect? Are there flags you would add now that you have had a week to think about it?
+:::
+
+Most people find that the flags are easy to recognize in retrospect and very hard to see in real time. This session is about understanding why — what specific dynamics make certain kinds of leadership failure so hard to name while you are inside them.
+
+We are going to look at three connected things: what narcissism actually is (and what the research shows about it in church leaders), what failure actually looks like and how we categorize it, and then the genuinely hard questions that follow — what to do, who gets restored, and how.
+
+---
+
+## Part 1: Narcissism and church leadership
+
+### Where the word comes from
+
+The term comes from the Greek myth of Narcissus — a young man of extraordinary beauty who, upon seeing his own reflection in a pool of water, fell so deeply in love with it that he could not leave. He either wastes away staring at himself or dies trying to embrace the reflection, depending on the version. Ovid gives the most famous account in the *Metamorphoses*.
+
+Sigmund Freud introduced the clinical use in 1914 in his essay "On Narcissism," using it to describe an excessive self-love that interferes with the capacity to love others. From there it became a central concept in personality psychology and eventually entered the diagnostic vocabulary.
+
+The name is telling: narcissism is not primarily about self-confidence. It is about being captivated by your own reflection — unable to see others clearly because you are, in some sense, always looking at yourself.
+
+---
+
+### What narcissism actually is
+
+In academic psychology, narcissism is a personality trait — or cluster of traits — that exists on a spectrum. Almost everyone has some degree of narcissistic traits. The question is where someone falls and how those traits interact with their context and role.
+
+**Core features include:**
+
+- An inflated sense of self-importance and superiority
+- A strong need for admiration and external validation
+- A sense of entitlement — the belief that special treatment is deserved
+- A tendency to use others to achieve one's own goals
+- Lack of empathy, or empathy that is instrumental rather than genuine
+- Envy of others alongside a belief that others envy them
+- Arrogance and grandiosity in presentation
+
+Researchers distinguish two forms that look quite different:
+
+**Grandiose narcissism** is the most visible form — characterized by extraversion, dominance, and a confident, charismatic surface. Grandiose narcissists seek the spotlight, are comfortable with conflict, and project strength and certainty.
+
+**Vulnerable narcissism** is less visible but equally important — characterized by hypersensitivity to criticism, a fragile sense of self requiring constant protection, and a kind of wounded grandiosity: the belief that one deserves more than one is getting. Vulnerable narcissists can appear humble on the surface while harboring deep convictions of special status and deep resentment of perceived slights.
+
+**Both forms show up in church leadership. The vulnerable form is often harder to identify because it does not look like what people expect narcissism to look like.**
+
+---
+
+### Narcissistic Personality Disorder — a different category
+
+Narcissistic Personality Disorder (NPD) is a clinical diagnosis in the DSM-5, estimated to affect roughly 1–6% of the general population, with higher prevalence in men. To meet the threshold, a person must show a pervasive pattern of grandiosity, need for admiration, and lack of empathy beginning by early adulthood and present across contexts.
+
+**Two reasons the distinction between narcissistic traits and NPD matters:**
+
+1. It is not clinically or ethically appropriate to diagnose someone from a distance — including a pastor — with a personality disorder.
+2. Significant harm can be caused by people who have strong narcissistic traits but do not meet the full clinical threshold for NPD. The diagnosis is not required for the damage to be real.
+
+---
+
+### What the research actually shows about pastors
+
+There is a growing body of empirical research on narcissism in pastoral populations. Here is an honest summary of what we know — and how confident we should be.
+
+**The central finding: narcissistic traits are present among pastors and can have significant consequences, but we do not yet have strong evidence that pastors, as a population, are more narcissistic than other professionals.**
+
+**Key studies:**
+
+**Zondag (2004) — "Just Like Other People: Narcissism Among Pastors"** (*Pastoral Psychology*) — Surveyed Dutch pastors and identified four narcissistic styles: Balanced, Vulnerable, Undisguised, and Masking. The study's most important contribution is challenging the assumption that narcissism always manifests as obvious arrogance. A pastor might exhibit narcissistic characteristics through *insecurity and a strong need for approval* rather than overt grandiosity.
+
+**Cooper, Pullig, and Dickens (2016)** (*Journal of Psychology and Theology*) — 488 Protestant ministers evaluated ethical scenarios. Higher narcissism was associated with **poorer ethical judgment**. Importantly, intrinsic religiosity — faith internalized as genuine personal commitment — moderated the negative relationship. This suggests narcissistic tendencies and sincere religious faith can coexist, and that religiosity is not a single, uniform protective factor.
+
+**Zondag (2007) — Narcissism and Empathy Among Pastors** (*Journal of Pastoral Care & Counseling*) — Examined how different narcissistic tendencies relate to the capacity for empathy — perspective-taking, empathic concern, and the ability to imagine another's experience. The implication: we should distinguish between a pastor's *public* interpersonal skills and the underlying motivations shaping their relationships. These are not the same thing.
+
+**Klemashevich and Nave (2023)** (*Journal of Psychology and Christianity*) — Seminary graduates showed **higher-than-average narcissism scores**. They also reported high spiritual maturity. Overall narcissism scores were not significantly associated with spiritual maturity measures. This raises an uncomfortable possibility: *religious education and perceived spiritual maturity do not necessarily correspond to lower narcissism.*
+
+**Dunaetz, Jung, and Lambert (2018)** (*Great Commission Research Journal*) — Surveyed 64 Christians across church sizes. Found that **participants from larger churches demonstrated significantly greater tolerance for narcissistic leadership** than those from smaller churches. The study was small and measured congregant tolerance rather than pastor narcissism — but the finding is suggestive.
+
+---
+
+### How strong is the evidence?
+
+It is worth being honest about what the research does and does not establish:
+
+| Research question | Strength of evidence |
+|---|---|
+| Do pastors exhibit narcissistic traits? | **Strong** — clearly documented |
+| Is narcissism associated with poorer ethical judgment among pastors? | **Moderate** — supported by a substantial empirical study |
+| Are pastors *more* narcissistic than the general population? | **Weak** — no definitive representative comparison |
+| Do larger churches tolerate narcissistic behavior more? | **Preliminary** — one small study supports the hypothesis |
+| Is narcissism among pastors *increasing*? | **Insufficient** — no convincing longitudinal evidence |
+
+A 2024 meta-analysis of over 546,000 participants spanning 1982–2023 found that narcissism scores in the general population generally **decreased** rather than increased across that period. This does not rule out a different pattern among pastors, but it should make us cautious about assuming a broader cultural epidemic explains what we are seeing in churches.
+
+---
+
+### Why the church context amplifies the risks
+
+Even if pastoral populations are not more narcissistic to start, the church environment may amplify the consequences of narcissistic traits in specific ways.
+
+**The structure of worship creates a built-in admiration supply.** A pastor stands at the front every week, receives attention and deference, is thanked and affirmed, and has their words treated as spiritually significant. For someone with high narcissistic traits, this is a powerfully reinforcing environment — and unlike most other leadership contexts, very little structural correction is built in.
+
+**Theological language provides cover.** The language of calling, anointing, divine vision, and spiritual authority can be used — consciously or not — to place a leader beyond normal accountability. "God told me" is very difficult to argue with. "The Lord has laid this on my heart" forecloses disagreement in ways that "I think we should" does not.
+
+**Success is interpreted as divine endorsement.** When a church grows, this is often read — by the leader and the community — as evidence of God's blessing. Growth becomes theological proof. This makes it very difficult to raise concerns about leadership behavior, because the response is: *look at what God is doing here.*
+
+**The selection problem.** General leadership research shows that narcissism predicts **emergent** leadership — who rises — but not **effective** leadership — who should stay. The characteristics that help someone appear visionary and compelling in the early stages are not the same characteristics that make someone a good shepherd over time. Churches that select primarily for charisma, public confidence, and growth metrics may be selecting for a personality profile that carries long-term risks.
+
+::: {.callout-note}
+**Discussion**
+
+The research shows narcissistic traits help people emerge as leaders but don't make them effective over time. Does that match your experience — have you seen leaders who were compelling at the start but whose leadership produced different results over time? What changed, and when did you notice it?
+:::
+
+---
+
+### What narcissistic leadership looks like over time
+
+The early stages often feel electric. A narcissistic leader can be genuinely inspiring, energizing, and vision-casting. People feel part of something significant.
+
+Over time, characteristic patterns tend to emerge:
+
+- The inner circle shrinks to people who offer uncritical loyalty
+- Critics and questioners are marginalized, pushed out, or publicly shamed
+- The leader's needs — financial, emotional, logistical — become increasingly central to the community's life
+- Accountability structures are weakened or eliminated
+- The leader's vision becomes indistinguishable from God's will in community language
+- People who leave are described in negative spiritual terms
+- Empathy is performative — present on stage, absent in private
+
+---
+
+## Part 2: When leadership fails — naming what happened
+
+### A framework for understanding failure
+
+Not every mistake a leader makes is a failure of the same kind. And the response should be proportionate to the category. The following framework is not about assigning blame — it is about being honest enough to name what actually happened.
+
+| Category | What it is | Examples | Appropriate response |
+|---|---|---|---|
+| **Imperfection** | Ordinary human error; mistakes made in good faith and acknowledged | Poor decision under pressure; miscommunication; judgment call that didn't work | Honest conversation; feedback; expectation of acknowledgment and growth |
+| **Ongoing pattern** | Repeated behaviors that reveal character rather than circumstance | Consistent use of anger to silence people; chronic dishonesty in small things; repeated boundary violations | Formal accountability; named pattern; concrete expectations with consequences; time-limited monitoring |
+| **Moral failure** | A serious violation — often of sexual ethics, financial integrity, or truthfulness — that represents a breach of NT qualifications for leadership | Sexual affair; financial fraud; sustained deception of the congregation | Outside accountability; transparent process with the board; care for those harmed; public acknowledgment |
+| **Spiritual abuse** | The misuse of spiritual authority to control, harm, or silence people | Using Scripture to shame or threaten; claiming divine authority to override someone's choices; punishing those who raise concerns | Outside investigation; removal from leadership; professional care for those harmed; potentially civil authorities |
+| **Criminal conduct** | Behavior that violates the law, especially involving vulnerable people | Sexual abuse of minors; assault; financial crimes | Civil authorities are primary; church does not handle this internally |
+
+---
+
+### Church hurt vs. abuse — a distinction that matters
+
+These terms get used interchangeably, and they should not be.
+
+**Church hurt** is the pain that comes from any of the above — imperfect communities, poor decisions, moral failures, genuine disagreements. It is real, it is significant, and it deserves to be taken seriously. Almost everyone who has been part of a church for long has experienced it in some form.
+
+**Abuse** is a specific category of harm where a power differential is exploited to control or damage someone. It may be sexual, spiritual, emotional, financial, or physical. It is not simply doing wrong — it is doing wrong *to* someone in a way that uses power against them.
+
+| | Church hurt | Abuse |
+|---|---|---|
+| **Power dynamic** | May or may not involve a power differential | Always involves exploitation of a power differential |
+| **Intent** | May be unintentional | May be intentional or patterned — intent doesn't determine harm |
+| **Appropriate response** | Varies widely; often internal to the community | Requires outside accountability; civil authorities where laws broken |
+| **Self-awareness of harm** | Leader may recognize harm done | Leader often denies, minimizes, or re-frames harm |
+| **Recurrence** | May be a one-time failure | Often a pattern |
+
+**Not all church hurt is abuse. All abuse causes church hurt. The distinction matters because the appropriate response is fundamentally different.**
+
+---
+
+### Why leadership failure hits differently in a church context
+
+When leadership fails in a church, the impact tends to be disproportionately large. This is not a sign of weakness or oversensitivity. There are structural reasons for it.
+
+**The trust involved is unusually high.** People come to churches in moments of genuine vulnerability — grief, crisis, searching, transition. They extend a level of trust to church leaders that they would not extend in most other contexts. When that trust is violated, the wound is deep precisely because the investment was real.
+
+**The spiritual dimensions compound the harm.** When a leader is understood as representing God — speaking for God, carrying God's authority — their failure raises questions that go beyond the relational. Did God fail? Was my faith misplaced? Is the whole framework wrong? The harm is not just relational but theological.
+
+**The community often becomes an extension of the harm.** In many cases of leadership failure, the congregation or its leadership structure responds in ways that compound the original harm — denying it happened, minimizing it, prioritizing the institution's reputation, or pressuring victims to be silent for the sake of unity.
+
+**The social cost of speaking is enormous.** Church communities can be very small social worlds. When someone has been harmed and the community rallies around the leader, the victim can find themselves suddenly without their entire support network. Speaking carries the cost of losing everything.
+
+::: {.callout-note}
+**Discussion**
+
+Has a failure of church leadership ever affected you more deeply than you expected it to — or affected someone you know that way? Looking back, do the structural reasons above help explain why the impact was as significant as it was?
+:::
+
+---
+
+## Part 3: The hard questions
+
+### What do you do about it?
+
+The response to leadership failure should be proportionate to the category from the framework above.
+
+**For imperfection:** Honest feedback, expectation of acknowledgment, time to demonstrate growth.
+
+**For ongoing patterns:** Formal accountability — conversations with a board, elder team, or denominational structure. Clear naming of what is being observed. Concrete expectations with consequences.
+
+**For moral failure:** This depends significantly on whether harm to others is involved. The New Testament's framework in 1 Timothy 5:19-20 is relevant: accusations require corroboration, but confirmed sin is addressed publicly, not privately managed. Outside accountability is usually necessary.
+
+**For abuse and criminal conduct:** The response is not primarily a church matter. Abuse requires outside accountability — civil authorities where laws have been broken, professional counseling for those harmed, and in many cases legal reporting obligations. The church does not have the expertise, objectivity, or authority to adjudicate abuse internally. Attempts to do so almost always cause further harm.
+
+---
+
+### What do you do when there is no recognition?
+
+This is one of the hardest scenarios: a leader who has caused real harm but does not acknowledge it, and a community that continues to rally around them — often because the church is growing, the leader remains compelling, and the costs of acknowledging the problem feel too high.
+
+**Growth is not evidence of God's blessing on the leader's character.** Churches can grow for many reasons, including the natural human attraction to confident, charismatic leaders — which, as we saw, is not the same thing as effective or healthy leadership. The New Testament's fruit test is not about attendance. It is about what is being produced in people's lives over time.
+
+**The community's loyalty may be protecting harm.** People who are deeply formed by a community and a leader will often go to significant lengths to explain away evidence of failure. This is not stupidity or weakness. It is the predictable result of strong social bonds, significant personal investment, and the genuine good that has also been present. Recognizing this can reduce the self-blame many harm survivors experience when they ask themselves why they didn't see it sooner.
+
+**You may not be able to fix it.** You cannot force a leader to acknowledge failure. You cannot force a community to recognize harm it is not ready to see. What you can do is name what you have experienced clearly, seek support outside the community, and make your own decisions about participation and continued relationship.
+
+**External accountability is often the only path.** Denominational structures, outside investigators, civil authorities, journalism, and public accountability have historically been the primary mechanisms that produce recognition in church contexts where internal accountability has failed. If internal paths have been exhausted, external ones are legitimate.
+
+---
+
+### What do you do when people you love keep following a failed leader?
+
+People rarely leave a community or a leader because someone told them to. Change tends to happen through their own accumulating experience over time. Your job is not to rescue people from their choices — that approach tends to push people closer to the community rather than toward the door.
+
+What you can do: stay in honest relationship without issuing ultimatums. Ask curious questions rather than making accusations. Be a presence of honest friendship that does not require agreement.
+
+And you can grieve the reality that some people you love may choose differently than you would. That grief is real and it deserves space.
+
+---
+
+### Restoration — the question that divides people
+
+The New Testament's posture toward people who fail is consistently oriented toward restoration. Galatians 6:1 — *restore that person gently*. 2 Corinthians 2 — Paul urges the Corinthians to reaffirm love for a person who has been disciplined. The goal is not punishment. It is restoration.
+
+But restoration needs to be understood carefully, because the word is often used to short-circuit the process.
+
+**Restoration to the community is different from restoration to leadership.** This is probably the most important distinction in this session.
+
+| | Restoration to community | Restoration to leadership |
+|---|---|---|
+| **What it means** | Full membership, belonging, love, and participation in the life of the church | Return to a position of authority over others, especially vulnerable people |
+| **Who it involves** | The person and the community | The person, the community, *and all those who would be placed under their authority* |
+| **What it requires** | Genuine acknowledgment of harm; demonstrated change over time | Genuine acknowledgment; sustained change over *years*; rebuilt trust with the harmed; demonstrated fitness to hold power accountable |
+| **Who decides** | The community together | The community, but with significant weight given to those who were harmed |
+| **Default assumption** | Restoration to community is the goal and should be pursued | Restoration to leadership is not guaranteed; it must be earned and may not be appropriate |
+
+**Restoration requires genuine acknowledgment.** You cannot restore what has not been named. A leader who has not genuinely acknowledged what they did, demonstrated understanding of how it harmed others, and shown sustained change has not done the work. Restoration is not a process that happens because enough time has passed. It happens because something has genuinely changed.
+
+**Restoration takes time.** Any process that restores a leader to a platform within months of a disclosed failure should be viewed with significant skepticism. Genuine character change, rebuilding of trust, and demonstrated transformation take years, not months.
+
+::: {.callout-note}
+**Discussion**
+
+Where have you seen restoration language used well — in a way that genuinely served healing? Where have you seen it used to move too quickly past harm? What was the difference?
+:::
+
+---
+
+### Some failures are permanently disqualifying from leadership
+
+This is the hardest thing in this section to say, and it needs to be said.
+
+The New Testament's qualifications for elders and overseers include being "above reproach" and having "a good reputation with outsiders" (1 Timothy 3). Some failures so thoroughly violate these qualifications that restoration to a position of authority over vulnerable people is not appropriate, regardless of personal repentance.
+
+This is not about punishment. It is about protection. Some categories of failure are permanently disqualifying from leadership because:
+
+- The trust required for pastoral authority cannot be meaningfully rebuilt
+- The risk to vulnerable people who would be placed under that authority is too high
+- The character failure demonstrated was not situational but dispositional
+
+**Categories that are almost certainly permanently disqualifying from pastoral leadership:**
+
+- Sexual abuse of minors
+- Sexual abuse or coercion of adult congregants or ministry workers
+- Sustained financial fraud against the congregation
+- A documented pattern of spiritual abuse — systematic use of religious authority to harm
+- Conviction for violent crime
+
+**Repentance and restoration to community are possible and should be pursued. Restoration to leadership is a separate question — and the answer is sometimes no.**
+
+The fact that someone has genuinely changed does not automatically mean they should be trusted with power over vulnerable people again. We do not require that a disbarred attorney be reinstated to show that their repentance is genuine. The same logic applies here.
+
+---
+
+## The thread connecting everything
+
+Narcissism and leadership failure are not unrelated topics. They are two expressions of the same underlying dynamic: the confusion of the leader's self with the mission, the community, and God.
+
+When a narcissistic leader enters a church, the leader's needs gradually become indistinguishable from the church's needs. When failure happens and is not acknowledged, the leader's reputation becomes indistinguishable from the community's identity. When restoration is mishandled, the leader's comfort becomes indistinguishable from the community's healing.
+
+The New Testament's consistent counter to all of this is the same: plural leadership, communal discernment, the fruit test applied over time, and the willingness to confront what is true even when it is costly.
+
+None of that is easy. All of it is necessary.
+
+---
+
+## Questions worth sitting with
+
+1. Looking back at a leader who was significant in your church experience — do any of the narcissism patterns resonate? Not as a diagnosis, but as a description of what you observed over time?
+
+2. Using the framework from Part 2 — where on the spectrum does the failure you have experienced or witnessed fall? Does naming the category change how you think about what happened?
+
+3. What would genuine restoration look like to you — both restoration to community and, separately, restoration to leadership? Are those the same thing in your mind, or different?
+
+4. Is there a difference between someone being genuinely repentant and someone being genuinely *fit* for leadership again? What does the difference look like in practice?
+
+5. Is there someone you love who is still part of a community or following a leader you have concerns about? What does honest, non-coercive relationship look like with them?
+
+---
+
+## Reflection
+
+**A pattern I recognize from the narcissism section — in a leader I have known or a community I have been part of:**
+
+_______________________________________________
+
+_______________________________________________
+
+**How I would categorize a leadership failure I have experienced or witnessed — and what I wish the response had looked like:**
+
+_______________________________________________
+
+_______________________________________________
+
+**Where I am in my own processing — what I still need, what I am still working through:**
+
+_______________________________________________
+
+_______________________________________________
+
+---
+
+## Question to carry into next session
+
+::: {.callout-note}
+**Discussion**
+
+Session 6 will look at the difference between core doctrine, tradition, and personal preference — and why it matters enormously which category something actually falls into. Before we get there: what is one thing you currently believe about faith or church practice that you hold with high certainty? And what is one thing you are genuinely unsure about? Come ready to talk about how you tell the difference.
+:::

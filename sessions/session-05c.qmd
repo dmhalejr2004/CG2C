@@ -1,0 +1,376 @@
+---
+title: "Session 5"
+subtitle: "When Leadership Goes Wrong"
+---
+
+::: {.session-banner}
+::: {.session-number}
+Session 5 of 8
+:::
+::: {.session-title}
+When Leadership Goes Wrong
+:::
+::: {.session-subtitle}
+From red flags to real questions -- what to do, who's responsible, and what healing actually looks like
+:::
+:::
+
+## Listen
+
+::: {.audio-section}
+::: {.audio-icon}
+🎙️
+:::
+::: {.audio-info}
+**Session 5 -- When Leadership Goes Wrong**
+
+[▶ Not Currently Available, Available Soon](#){target="_blank"}
+:::
+:::
+
+---
+
+## From the flags to the question nobody wants
+
+Last session ended with the red flag / green flag table. Most people found the exercise easier than expected -- the flags are legible once you name them. Then comes the harder question: if I see those things, what do I actually do?
+
+That question has layers. What should *I* do? What should the *church* do? What should the *leader* do? And what do you do when nobody does anything?
+
+This session tries to sit honestly with those questions.
+
+::: {.callout-note}
+**Discussion**
+
+Before we go further: has anyone here ever seen a red flag clearly and done nothing? What made it hard to act on what you were seeing?
+:::
+
+---
+
+## Naming the thing first: a spectrum of problems
+
+Not every difficult experience in a church is the same kind of thing. The response that fits one category can be harmful if applied to another. So the first task is learning to name what you are actually dealing with.
+
+### The four categories
+
+**Disagreement about methods**
+
+This is the most common source of church conflict, and the least serious. It happens when people hold different preferences about *how* the church does things -- worship style, programming, staffing decisions, budget priorities, how meetings are run. These are real disagreements. They can be sharp. But they are disagreements about means, not ends. Nobody's character is at stake. Nobody is being harmed.
+
+**Disagreement about principles or direction**
+
+This is more serious because the stakes are higher. It happens when people disagree about *what* the church should be doing or *where* it is headed -- theological emphasis, mission priorities, how the church relates to its neighborhood or denomination, what it believes about specific ethical questions. These disagreements can threaten a community's coherence, and they deserve serious engagement. But they are still disagreements between people with different convictions, not failures of character or conduct.
+
+**Church hurt**
+
+This is pain that comes from being part of an imperfect human community. It happens when a leader makes a bad call that affects you. When a community fails to support you in a moment you needed it. When you are overlooked, misunderstood, or handled poorly. When someone says something careless that lodges in you for years. Church hurt is real. It is significant. It does not require bad intent to cause real damage. And it is nearly universal among people who have been part of churches for any length of time.
+
+**Church abuse**
+
+This is categorically different from the above, and treating it the same way causes harm. Abuse happens when someone in a position of spiritual authority uses that authority to control, exploit, harm, or silence people. It may be sexual, financial, spiritual, emotional, or some combination. The key element is not just that something bad happened -- it is that power was used against someone. Abuse can happen once or as a sustained pattern. It does not require the perpetrator to intend harm. What makes it abuse is the use of a power differential to cause damage.
+
+::: {.handout-section}
+::: {.handout-title}
+A framework for naming what happened
+:::
+
+| Category | What it involves | Who is harmed | What it requires |
+|---|---|---|---|
+| Disagreement about methods | Different preferences about how things are done | Community cohesion | Honest conversation; willingness to compromise or separate |
+| Disagreement about principles | Different convictions about what the church should be | Community direction | Serious engagement; possibly agreed separation |
+| Church hurt | Imperfect community causing real pain | The person hurt | Acknowledgment; accountability; time |
+| Church abuse | Power used against vulnerable people | The person harmed | Outside accountability; professional support; possibly civil authorities |
+
+:::
+
+::: {.callout-note}
+**Discussion**
+
+Looking back at a difficult experience you have had in a church -- which category does it actually fall into? Does naming the category change how you think about it?
+:::
+
+---
+
+## The harder distinction: church hurt vs. church abuse
+
+These get conflated constantly, and the conflation does harm in both directions. Treating hurt as if it were abuse inflates the category and makes real abuse harder to name. Treating abuse as if it were hurt minimizes it and leaves victims without the response they need.
+
+| | Church hurt | Church abuse |
+|---|---|---|
+| **Power dynamic** | May or may not involve a power difference | Always involves exploitation of a power difference |
+| **Intent** | Usually no intent to harm | Intent is not what determines abuse; harm caused by power use is what matters |
+| **Pattern** | May be a one-time failure | Often a pattern; single incidents can still be abuse |
+| **Leader's response** | Leader may acknowledge and change | Leader typically denies, minimizes, or re-frames |
+| **Appropriate response** | Internal to community; accountability; relationship | Outside accountability; professional care for those harmed; civil authorities when laws broken |
+| **What victims need** | To be heard and acknowledged | Safety first; then support; then accountability for the perpetrator |
+
+---
+
+## Why does it hurt so much when church leaders fail?
+
+This question deserves more than a brief answer, because the depth of the pain surprises people -- including the people experiencing it.
+
+When a trusted pastor or spiritual mentor fails, people often report that the experience was more devastating than other betrayals -- more disorienting, longer-lasting, more threatening to their sense of self. There are several reasons for this, and understanding them does not make the pain smaller, but it can make it less confusing.
+
+**The trust involved is unusually deep.** People come to churches during their most vulnerable moments -- grief, crisis, searching, the disorientation of major life transitions. They extend a level of trust to church leaders that they would not extend in most other contexts, precisely because the relationship is framed as something more than professional. When that trust is broken, the wound is deep in proportion to the openness that preceded it.
+
+**Spiritual authority is a uniquely powerful kind of authority.** Most positions of authority over us -- employer, teacher, doctor -- carry influence in a bounded domain. A spiritual authority is different. When someone is understood as representing God, speaking for God, or carrying God's blessing and care, that relationship reaches into things that other relationships do not reach. Character questions, life direction, ultimate meaning. A failure there is not bounded the way a professional disappointment is.
+
+**The failure raises theological questions, not just relational ones.** This is the dimension that makes church hurt theologically destabilizing in ways that other kinds of hurt are not. When a spiritual authority fails, people often find themselves asking: If this person was not who they appeared to be, what does that say about the God they claimed to represent? If I trusted my discernment and got it wrong, can I trust myself? If the community that shaped my faith was built on something false, is the faith itself false? These questions are not irrational. They are the predictable result of a specific kind of betrayal -- one where the human and the divine were fused together in ways the New Testament actually warns against.
+
+**The community often becomes a second source of harm.** In most cases of significant leadership failure, some portion of the congregation -- sometimes most of it -- rallies around the leader. The people who should be a resource for healing become a second wound. The person who has been harmed loses their community at the exact moment they need it most. The social cost of naming what happened can be the loss of every relationship they have built in that setting.
+
+**We are wired for community and belonging.** Psychological research consistently shows that social exclusion and rejection activate the same neural pathways as physical pain. Being pushed out of a community -- or watching everyone you know choose the person who harmed you -- is not merely emotionally uncomfortable. It registers as something close to injury.
+
+---
+
+## What should *I* do?
+
+### When you see a red flag
+
+Seeing a red flag does not automatically require action. What it requires is honest attention. Before deciding what to do, it helps to ask a prior question: what am I actually seeing?
+
+Our experiences shape our perceptions. Someone who grew up with an authoritarian father may read a firm pastor as threatening when the situation does not warrant it. Someone who has been in a controlling church may read ordinary structure as a red flag. This is not weakness -- it is how human beings work. Our histories come with us.
+
+At the same time, the opposite error is equally common: explaining away things we see because we love the community, because the leader has done genuine good in our lives, because naming the thing would cost us something. We have both kinds of distortion available to us.
+
+The honest question is not "am I overreacting?" or "is everyone else seeing this?" It is: *what would I think if this person were not my pastor?* What would I advise a friend who described this situation to me? That kind of imaginative distance is genuinely useful.
+
+### When the concern is yours to address
+
+If you have a concern about a leader or a community, the first step is the most uncomfortable one: direct conversation. Matthew 18 describes a process of direct engagement before escalation, and the principle behind it is sound even if the specific mechanics require contextual judgment. Going directly to someone about a concern -- clearly, without accusation, with openness to being wrong -- is both the most respectful and the most productive path when the relationship and the concern make it possible.
+
+It is not always possible. When the concern involves abuse, or when there is a significant power differential, or when previous attempts at direct conversation have been punished, Matthew 18 is not the operating framework. The point is not to follow a formula. The point is to ask whether direct engagement is available before bypassing it.
+
+### When you need to check your own motives
+
+This is difficult to say, but it needs to be said: not every conflict with a leader is a leadership failure. Some of it is genuine disagreement. Some of it is a mismatch between what a community is and what someone needed it to be. Some of it is the accumulated weight of personal history expressing itself through a present frustration.
+
+None of that means the concern is not real. But it means honest self-examination is part of a responsible response. The question is not whether you have been hurt -- you may genuinely have been. The question is whether the story you are telling about it is the only story available, or whether there are things about your own experience that are worth understanding as part of the picture.
+
+This is not an invitation to dismiss your own perception. It is an invitation to hold it with some humility.
+
+::: {.callout-note}
+**Discussion**
+
+Has there been a time when you thought you were responding to a leadership problem but realized later you were also responding to something in your own history? How did you tell the difference?
+:::
+
+---
+
+## What should the *church* do?
+
+A community's response to leadership problems is one of the most important tests of its actual health. What a church says it believes about accountability and what it does when accountability is required are often very different things.
+
+### For disagreements about methods or direction
+
+The community's job here is to build and maintain real structures for honest disagreement. That means having forums where concerns can be raised without consequence. It means leaders who can receive criticism without treating it as disloyalty. It means a culture where "I think we are heading in the wrong direction" is a sentence that can be spoken without social penalty.
+
+Most churches do not have this. The absence of it does not make a church abusive, but it creates the conditions in which smaller problems grow into larger ones.
+
+### For church hurt
+
+The community's job is acknowledgment. A person who has been hurt by their community needs to hear that what happened to them was real, that it mattered, and that the community takes responsibility for its part in it. This is not complicated -- but it is consistently avoided, because acknowledgment feels like liability and communities are often more interested in self-protection than in repair.
+
+A community that handles hurt well will have leaders who can say "I got that wrong" or "we failed you there" without it dissolving the community or requiring the leader's resignation. That capacity for honest acknowledgment is one of the best leading indicators of a community's health.
+
+### For moral failure or abuse
+
+The community's responsibility here is more demanding. It requires:
+
+- Immediate removal of the person from the role where they can continue to cause harm
+- Transparent communication with the community about what has happened, in terms that protect victims while being honest about the nature of the failure
+- Active care for those who have been harmed -- not just pastoral outreach, but practical support and professional resources
+- Outside accountability -- a board, a denomination, civil authorities -- rather than handling the situation internally
+- Commitment to a real process, not a managed narrative
+
+The failure mode here is almost always some version of the same thing: the community prioritizes its reputation, its continuity, and the leader's comfort over the needs of those who were harmed. Institutions do this predictably. Knowing that it is predictable is the first step toward doing something different.
+
+---
+
+## What should the *leader* do?
+
+### When a concern is raised
+
+A leader who receives a concern about their behavior has two basic options. They can treat it as a threat, or they can treat it as information.
+
+A leader who treats concerns as threats will manage them -- explain them away, marginalize the person raising them, frame the concern as a spiritual problem in the person raising it, or use loyalty as the measure of faithfulness. Over time this isolates the leader inside a circle of people who only tell them what they want to hear.
+
+A leader who treats concerns as information will receive them, sit with them, take them seriously even when they are wrong or partially wrong, and demonstrate that raising a concern is safe. Over time this builds the kind of community where small things get addressed before they become large things.
+
+### The higher standard
+
+The New Testament is explicit that leadership in the church carries a higher standard than ordinary membership. James 3:1 -- "Not many of you should become teachers, my fellow believers, because you know that we who teach will be judged more strictly." 1 Timothy 3 and Titus 1 describe a set of qualifications for elders and overseers that are not required of every member. The list includes being above reproach, not violent, not a lover of money, not given to dishonesty, managing their own household well, and having a good reputation with outsiders.
+
+This is not an impossible standard. These qualifications describe character, not perfection. A leader can fail in a specific moment and still be qualified to lead. But a sustained pattern of behavior that contradicts these qualifications is a question about fitness for the role, not just personal failure.
+
+The tension here is real: leaders are human and will fail like humans do, and we should not expect otherwise. But the office they hold carries obligations that create higher accountability. Both of those things are true at the same time.
+
+### The responsibility that cannot be transferred
+
+A leader who has caused harm cannot transfer the responsibility for that harm to the people who were harmed. This sounds obvious stated directly. But it happens constantly, in language like: "They came to me with their problems"; "They put me in an impossible position"; "They misunderstood what I was doing"; "The enemy is using this to attack the ministry."
+
+This kind of language is a way of redistributing blame. It does not diminish the leader's responsibility. A leader who caused harm is responsible for the harm they caused, regardless of the circumstances that surrounded it.
+
+---
+
+## What do you do when nobody does anything?
+
+This is the scenario that many people in this room may be living with. You saw something. You said something, or you didn't. Nothing changed. The leader continues. The community continues. And you are left with the question of what to do with what you know.
+
+### You cannot fix it
+
+This is painful but important. You cannot force a leader to acknowledge harm. You cannot force a community to recognize something it is not ready to see. Some situations do not resolve. Some communities protect leaders who should not be protected. Some harm does not get acknowledged in any timeline that feels meaningful.
+
+Accepting this is not giving up. It is releasing yourself from a responsibility that was never yours to carry. You are not responsible for the behavior of other people. You are not responsible for the response of an institution. You are responsible for your own choices: what you say, what you participate in, and what you are willing to put your name next to.
+
+### You can name what you experienced
+
+Telling your own story -- clearly, accurately, without exaggeration -- is something you have the right to do regardless of whether anyone responds. That does not mean every story should be told publicly or immediately. Timing and context matter. But the idea that survivors of harm owe silence to the institutions that harmed them is not a Christian value, even when it is sometimes expressed in Christian language.
+
+### External accountability is a legitimate path
+
+Denominational structures, outside investigators, civil authorities, journalists, and online communities of survivors have historically been the primary mechanisms that produced accountability in church contexts where internal accountability failed. None of these paths are perfect. But they are legitimate, and in many cases they have been the only path to recognition of harm.
+
+### What to do with people you love who are still inside
+
+The people you care about who are still following a leader you have concerns about are making their own choices, and those choices are theirs to make. You cannot extract someone from a community they have chosen. Attempts to do so tend to push people closer to the community rather than toward the door.
+
+What you can do is stay in honest relationship without demanding agreement. Ask questions rather than making accusations. Be a steady presence that does not require the other person to validate your perception before you will care about them. And accept that some people will stay longer than you think they should -- and that is not your failure.
+
+---
+
+## Forgiveness and consequences -- two things that get confused
+
+This is one of the most important distinctions in this session, and it is one that gets weaponized against harm survivors with some regularity.
+
+**Forgiveness is a decision the harmed person makes about their own interior.** It is the process of releasing the debt you are owed -- not pretending it was not owed, not declaring the harm not-real, not restoring the relationship to where it was before. It is a decision to stop organizing your life around the debt. Psychologically and spiritually, forgiveness tends to benefit the person forgiving as much as the person forgiven. It is real and important work.
+
+**Consequences are what happen in the external world as a result of someone's choices.** They exist independently of forgiveness. A person can be genuinely forgiven and still face the consequences of what they did. These are not in tension. Forgiveness does not remove consequences. Consequences do not indicate unforgiveness.
+
+The confusion becomes harmful when institutions or leaders use the language of forgiveness to argue against accountability. "Aren't we called to forgive?" is not an argument against a police report. "He has asked for forgiveness" is not an argument for restoring someone to a position of authority over vulnerable people. These categories operate in different domains.
+
+::: {.callout-note}
+**Discussion**
+
+Have you ever seen forgiveness language used to shut down accountability? What did it feel like from the inside? What would you say now to someone in that situation?
+:::
+
+---
+
+## Restoration -- two different things
+
+The New Testament consistently orients toward restoration rather than permanent exclusion. Galatians 6:1 -- "restore that person gently." 2 Corinthians 2 urges reaffirming love for a person who has been disciplined. This is a real value. The question is what restoration actually means, because the word is often used in ways that collapse two very different things into one.
+
+**Restoration to community** means full membership, belonging, love, and participation in the life of the church. It means not being permanently defined by your worst failure. It means the community treating you as a person worth having around. This is always the goal, and it should be pursued unless a person's ongoing presence poses a real danger to others.
+
+**Restoration to leadership** means returning to a position of authority over other people, particularly over vulnerable people who extend trust. This is a different question, and the answer is not automatic.
+
+| | Restoration to community | Restoration to leadership |
+|---|---|---|
+| **Who benefits** | The restored person and the community | Must also benefit the people who would be placed under their authority |
+| **What it requires** | Genuine acknowledgment; demonstrated change | Acknowledgment; sustained change over years; rebuilt trust; demonstrated fitness to hold power responsibly |
+| **Who decides** | The community together | Significant weight given to those who were harmed |
+| **Default posture** | This is the goal and should be pursued | Must be earned; may not be appropriate |
+| **Timeline** | Can begin soon after genuine accountability | Requires years, not months |
+
+### What is permanently disqualifying from leadership?
+
+This is a hard question, and the New Testament's qualifications in 1 Timothy 3 and Titus 1 give us some framework. The standard is being above reproach and having a good reputation with outsiders. Some failures so thoroughly violate this standard that the trust required for pastoral authority cannot be meaningfully rebuilt -- not as punishment, but as protection for people who would be placed under that authority.
+
+Categories that are almost certainly permanently disqualifying:
+
+- Sexual abuse of minors
+- Sexual coercion of or abuse of adult congregants or ministry staff
+- Sustained financial fraud against the congregation
+- A documented pattern of spiritual abuse -- systematic use of religious authority to harm people
+- Conviction for violent crime
+
+A person in one of these categories can be genuinely repentant. They can be genuinely restored to community. They can be genuinely forgiven. None of those things automatically restores fitness for leadership. We do not require a disbarred attorney to be reinstated to prove that their repentance is sincere. The same logic applies here.
+
+---
+
+## New Testament principles worth holding onto
+
+Several passages are worth naming directly, because they get invoked in these situations and their actual meaning matters.
+
+**Matthew 18:15-17** -- The process Jesus describes for addressing sin within a community is direct engagement first, then escalation with witnesses, then community involvement. The principle behind it is sound: deal with things as directly and as locally as possible. But this process applies to conflict between equals or near-equals. It was not designed to tell a person who has been abused that they must first go alone to confront their abuser.
+
+**1 Timothy 5:19-20** -- "Do not entertain an accusation against an elder unless it is brought by two or three witnesses. But those elders who are sinning you are to reprove before everyone, so that the others may take warning." This cuts both ways. Accusations need corroboration -- you do not move against a leader on a single unverified accusation. But confirmed failure is addressed publicly, not privately managed to protect the institution's reputation.
+
+**James 3:1** -- "Not many of you should become teachers... because we who teach will be judged more strictly." The higher standard for leaders is not an add-on. It is built into the structure of the New Testament's understanding of leadership.
+
+**Galatians 6:1-2** -- "If someone is caught in a sin, you who live by the Spirit should restore that person gently. But watch yourselves, or you also may be tempted. Carry each other's burdens." Restoration is the goal. Gentleness is the manner. But the verse begins with acknowledging that the person has been caught in a sin -- not explaining it away.
+
+**1 Corinthians 5:1-5** -- Paul is sharp about a situation where the church at Corinth is proud of itself for tolerating behavior that is clearly harmful. His concern is not that the community has failed to forgive the person. His concern is that they have failed to take the harm seriously. Community loyalty that protects harm is not a virtue in the New Testament.
+
+---
+
+## What does healthy leadership look like?
+
+It is worth ending here, because this class could leave people with the impression that church leadership is primarily a problem to be managed. That is not the picture the New Testament paints.
+
+Healthy leadership in a church community tends to have several recognizable characteristics. These are not a checklist. They are a description of something you know when you encounter it.
+
+**It is plural.** The New Testament consistently describes church leadership in the plural -- elders, not an elder. This is not an accident. Plural leadership creates mutual accountability, distributes wisdom, and makes it much harder for any single person's blind spots to become the community's blind spots. A church where one person holds all meaningful authority has already removed one of the primary structural safeguards the New Testament builds in.
+
+**It is transparent about its own limitations.** Healthy leaders know what they do not know. They say "I got that wrong" without it undermining their effectiveness. They can receive criticism without treating it as betrayal. They distinguish between their own preferences and God's will, and they make that distinction out loud.
+
+**It develops other people.** Ephesians 4:11-12 describes leaders as people whose job is to equip others for ministry -- not to do the ministry while others watch. A healthy leader is oriented toward building capacity in the people around them rather than building dependence on themselves.
+
+**It is accountable to structures outside itself.** This can be a denomination, an independent elder board, a formal accountability relationship with other leaders outside the congregation, or some combination. What matters is that the accountability is real and has teeth -- that there is someone who can say "that was wrong" and have it mean something.
+
+**It creates safety for honest disagreement.** The community around a healthy leader can raise concerns, disagree publicly, and question decisions without social penalty. The test is not whether people agree with the leader -- it is whether people can safely disagree.
+
+**It distinguishes between the mission and the leader.** The community's identity does not fuse with the leader's identity. The vision belongs to God and the community, not to the individual who is currently serving. A leader who has cultivated this knows that the work will go on without them, and they consider that a success rather than a threat.
+
+::: {.callout-note}
+**Discussion**
+
+Think about the healthiest leadership you have experienced in a church or community -- what made it feel that way? And what is one thing from this session you want to carry into your thinking about the churches you are part of now or in the future?
+:::
+
+---
+
+## Questions worth sitting with
+
+1. Which of the four categories -- methods, principles, church hurt, church abuse -- describes most of your difficult experiences with the church? Does naming it change anything?
+
+2. Is there a situation where you saw something, said nothing, and still wonder about that choice? What would you do differently now?
+
+3. What does the distinction between forgiveness and consequences mean to you personally? Is there a place where you have conflated them, in either direction?
+
+4. What would genuinely healthy church leadership look like in a community you could actually imagine being part of? What would you need to see to trust it?
+
+5. Is there someone in your life who has been more seriously harmed by a church than you have -- who needs something different from you than agreement or advice? What do they actually need?
+
+---
+
+## Reflection
+
+**A category from the framework that describes something I have experienced -- and what I wish the response had looked like:**
+
+_______________________________________________
+
+_______________________________________________
+
+**Where I land on forgiveness and consequences right now -- and whether those feel like the same thing or different things to me:**
+
+_______________________________________________
+
+_______________________________________________
+
+**One characteristic of healthy leadership I have experienced, and one I am still looking for:**
+
+_______________________________________________
+
+_______________________________________________
+
+---
+
+## Question to carry into next session
+
+::: {.callout-note}
+**Discussion**
+
+Session 6 looks at the difference between core doctrine, tradition, and personal preference -- and why it matters which category something actually belongs to. Before we get there: what is one thing you believe about faith or church practice that you hold with high certainty? And what is one thing you are genuinely unsure about? Come ready to talk about how you tell the difference.
+:::
