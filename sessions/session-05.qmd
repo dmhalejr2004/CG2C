@@ -15,7 +15,7 @@ From red flags to real questions -- what to do, who is responsible, and what hea
 :::
 :::
 
-## 🎙️ Listen to This Session Available Soon
+## 🎙️ Listen to This Session
 
 <audio controls style="width:100%; margin: 1rem 0;">
   <source src="../assets/audio/LeadershipFailures.mp3" type="audio/mpeg">
